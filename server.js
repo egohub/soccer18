@@ -36,9 +36,10 @@ app.use('/football', football);
 //           res.send(article);
 //     });
 // });
-var LIVE_API = 'process.env.API_URL';
+var LIVE_API = process.env.API_URL;
 app.get('/live', function (req, res) {
   request(LIVE_API,function(err, resq, body){
+    console.log(body);
     res.send(body);
   })
 });
