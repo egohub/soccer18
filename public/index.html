@@ -1,0 +1,216 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+  <title>Starter</title>
+
+  <link href="https://code.ionicframework.com/nightly/css/ionic.css" rel="stylesheet">
+  <script src="https://code.ionicframework.com/nightly/js/ionic.bundle.js"></script>
+
+</head>
+
+<body ng-app="starter">
+
+  <ion-nav-view></ion-nav-view>
+
+  <script id="templates/tabs.html" type="text/ng-template">
+
+    <ion-side-menus enable-menu-with-back-views="false" ng-controller="AppCtrl">
+      <ion-side-menu-content>
+        <ion-nav-bar class="bar-positive">
+          <ion-nav-back-button>
+          </ion-nav-back-button>
+
+          <ion-nav-buttons side="left">
+            <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+            </button>
+          </ion-nav-buttons>
+        </ion-nav-bar>
+
+        <ion-tabs class="tabs-icon-top tabs-positive tabs-striped">
+          <ion-tab title="Status" icon-off="ion-ios-pulse" icon-on="ion-ios-pulse-strong" href="#/tab/dash">
+            <ion-nav-view name="tab-dash"></ion-nav-view>
+          </ion-tab>
+          <!-- Chats Tab -->
+          <ion-tab title="Chats" icon-off="ion-ios-chatboxes-outline" icon-on="ion-ios-chatboxes" href="#/tab/charts">
+            <ion-nav-view name="tab-charts"></ion-nav-view>
+          </ion-tab>
+          <!-- Settings Tab -->
+          <ion-tab title="Settings" icon-off="ion-ios-gear-outline" icon-on="ion-ios-gear" href="#/tab/settings">
+            <ion-nav-view name="tab-settings"></ion-nav-view>
+          </ion-tab>
+        </ion-tabs>
+      </ion-side-menu-content>
+
+      <ion-side-menu side="left">
+        <ion-header-bar class="bar-positive">
+          <h1 class="title">MENU</h1>
+        </ion-header-bar>
+        <ion-content>
+          <ion-list>
+            
+            <ion-item nav-clear menu-close href="#/tab/dash">
+              HOME
+            </ion-item>
+            <ion-item nav-clear menu-close href="#/tab/charts">
+              CHATS
+            </ion-item>
+            <ion-item nav-clear menu-close href="#/tab/settings">
+              SETTING
+            </ion-item>
+          </ion-list>
+        </ion-content>
+      </ion-side-menu>
+    </ion-side-menus>
+
+  </script>
+
+  <script id="templates/tab-dash.html" type="text/ng-template">
+    <ion-view view-title="HOME">
+      //
+      <ion-content padding="true">
+        //
+        <p>Example of Ionic tabs. Navigate to each tab, and navigate to child views of each tab and notice how each tab has its own navigation history.</p>
+        // </ion-content>
+      <ion-tabs class="tabs-striped tabs-positive tabs-top tabs-icon-top has-tabs-top">
+
+        <ion-tab title="Chart 1" icon="ion-arrow-graph-up-left">
+          <ion-header-bar></ion-header-bar>
+          <!-- Tab 1 content -->
+          <ion-content class="padding">
+
+            <div class="card" ng-repeat="m in  matches | filter: 'notstarted'">
+              <div class="item item-divider item-dark">
+                {{m.tournament.name}}
+              </div>
+              <div class="row  item item-text-wrap" ng-repeat="n in  m.events| filter: 'notstarted'">
+                <div class="col col-40">{{n.homeTeam.name}}</div>
+                <div class="col col-20">{{n.startTimestamp*1000 |date :'hh:mm a' }}</div>
+                <div class="col col-40">{{n.awayTeam.name}}</div>
+              </div>
+            </div>
+          </ion-content>
+        </ion-tab>
+
+        <ion-tab title="Chart 2" icon-on="ion-ios-pie" icon-off="ion-ios-pie-outline">
+          <ion-header-bar></ion-header-bar>
+          <!-- Tab 2 content -->
+          <ion-content class="padding">
+            
+            <div class="card" ng-repeat="m in  matches | filter:'inprogress' ">
+              <div class="item item-divider item-balanced">
+                {{m.tournament.name}}
+              </div>
+              <div class="row  item item-text-wrap" ng-repeat="n in  m.events| filter: 'inprogress' ">
+                <div class="col col-10">{{n.statusDescription }}
+</div>
+                <div class="col col-35 home">{{n.homeTeam.name}}</div>
+                <div class="col col-20">{{n.homeScore.current}} - {{n.awayScore.current}}</div>
+                <div class="col col-35 away">{{n.awayTeam.name}}</div>
+              </div>
+            </div>
+          </ion-content>
+        </ion-tab>
+
+        <ion-tab title="Chart 3" icon="ion-arrow-graph-up-right">
+          <ion-header-bar></ion-header-bar>
+          <!-- Tab 3 content -->
+          <ion-content class="padding">
+            <div class="card">
+              <div class="item item-divider item-energized">
+                Tab 3
+              </div>
+              <div class="item item-text-wrap">
+                This is a basic Card which contains an item that has wrapping text.
+              </div>
+            </div>
+          </ion-content>
+        </ion-tab>
+
+      </ion-tabs>
+    </ion-view>
+  </script>
+ 
+  <script id="templates/tab-charts.html" type="text/ng-template">
+    <ion-view view-title="Chats">
+      <ion-content class="padding">
+        <div class="list card">
+          <div class="item item-divider">Recent Updates</div>
+          <div class="item item-body">
+            <div>
+              There is a fire in <b>sector 3</b>
+            </div>
+          </div>
+        </div>
+        <div class="list card">
+          <div class="item item-divider">Health</div>
+          <div class="item item-body">
+            <div>
+              You ate an apple today!
+            </div>
+          </div>
+        </div>
+        <div class="list card">
+          <div class="item item-divider">Upcoming</div>
+          <div class="item item-body">
+            <div>
+              You have <b>29</b> meetings on your calendar tomorrow.
+            </div>
+          </div>
+        </div>
+      </ion-content>
+    </ion-view>
+
+  </script>
+ 
+  <script id="templates/tab-settings.html" type="text/ng-template">
+    <ion-view view-title="Settings">
+      <ion-content>
+       <div class="bar bar-stable" style="position:relative"><h1 class="title">Ionic Slide</h1></div>
+            <ion-slide-box id="slider" does-continue="true" on-slide-changed="slideHasChanged($index)">
+              <ion-slide ng-repeat="post in features" class="assertive-bg" style="background: url('http://loremflickr.com/320/240/{{post.key}}')">
+                <h1 class="light">{{post.title}}</h1>
+                <p class="light">{{post.content}}</p>
+              </ion-slide>
+             <ion-slide class="assertive-bg" style="background: url('http://loremflickr.com/320/240/paris')">
+                  <h1 class="light">Paris</h1>
+                  <p class="light">Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture</p>
+                </ion-slide>
+                <ion-slide class="energized-bg" style="background: url('http://loremflickr.com/320/240/barcelona')">
+                  <h1 class="light">Barcelona</h1>
+                  <p class="light">Barcelona, the cosmopolitan capital of Spain’s Catalonia region, is defined by quirky art and architecture, imaginative food and vibrant street life.</p>
+                </ion-slide>
+                <ion-slide class="dark-bg" style="background: url('http://loremflickr.com/320/240/amsterdam')">
+                  <h1 class="light">Amsterdam</h1>
+                  <p class="light">Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city’s 17th-century Golden Age.</p>
+                </ion-slide> 
+            </ion-slide-box>
+
+            <ion-tabs class="tabs-positive tabs-top tabs-striped relative">
+              <ion-tab title="Hot Topics">
+                <ion-tab-header></ion-tab-header>
+                <ion-content class="has-header">
+                  This is hot topics
+                </ion-content>        
+              </ion-tab>
+              <ion-tab title="Events">
+                <ion-tab-header></ion-tab-header>
+                <ion-content class="has-header">
+                  This is events
+                </ion-content>          
+              </ion-tab>
+              <ion-tab title="News">
+                <ion-tab-header></ion-tab-header>
+                <ion-content class="has-header">
+                  This is news
+                </ion-content>          
+              </ion-tab>
+            </ion-tabs>
+          </ion-content>
+    </ion-view>
+  </script>
+
+</body>
+
+</html>
