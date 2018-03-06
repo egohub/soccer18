@@ -39,8 +39,7 @@ app.use('/football', football);
 var LIVE_API = 'process.env.API_URL';
 app.get('/live', function (req, res) {
   request(LIVE_API,function(err, resq, body){
-    var json = JSON.parse(body);
-    res.send(json);
+    res.send(body);
   })
 });
 
