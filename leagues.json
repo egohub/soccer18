@@ -1,0 +1,1796 @@
+[
+    {
+        "countryCode": "ALG",
+        "countryName": "Algeria",
+        "league": [
+            {
+                "id": "516",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Virsliga"
+            }
+        ]
+    },
+    {
+        "countryCode": "ARG",
+        "countryName": "Argentina",
+        "league": [
+            {
+                "id": "112",
+                "sortLevel": "0",
+                "sortLevelInternal": "9",
+                "name": "Superliga"
+            },
+            {
+                "id": "8965",
+                "sortLevel": "0",
+                "sortLevelInternal": "8",
+                "name": "Primera B Nacional"
+            },
+            {
+                "id": "9213",
+                "sortLevel": "0",
+                "sortLevelInternal": "7",
+                "name": "Primera B Metropolitana & Torneo Federal A"
+            },
+            {
+                "id": "9305",
+                "sortLevel": "0",
+                "sortLevelInternal": "5",
+                "name": "Copa Argentina"
+            },
+            {
+                "id": "9381",
+                "sortLevel": "0",
+                "sortLevelInternal": "4",
+                "name": "Super Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "AUS",
+        "countryName": "Australia",
+        "league": [
+            {
+                "id": "113",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "A-League"
+            },
+            {
+                "id": "9471",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "FFA Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "AUT",
+        "countryName": "Austria",
+        "league": [
+            {
+                "id": "38",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Bundesliga"
+            },
+            {
+                "id": "278",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Cup"
+            },
+            {
+                "id": "119",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Erste Liga"
+            }
+        ]
+    },
+    {
+        "countryCode": "AZE",
+        "countryName": "Azerbaijan",
+        "league": [
+            {
+                "id": "262",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Premier League"
+            }
+        ]
+    },
+    {
+        "countryCode": "BLR",
+        "countryName": "Belarus",
+        "league": [
+            {
+                "id": "263",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Premier Division"
+            }
+        ]
+    },
+    {
+        "countryCode": "BEL",
+        "countryName": "Belgium",
+        "league": [
+            {
+                "id": "40",
+                "sortLevel": "0",
+                "sortLevelInternal": "9",
+                "name": "First Division A"
+            },
+            {
+                "id": "264",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "2. Division"
+            },
+            {
+                "id": "149",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "BOL",
+        "countryName": "Bolivia",
+        "league": [
+            {
+                "id": "144",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Primera Division"
+            }
+        ]
+    },
+    {
+        "countryCode": "BIH",
+        "countryName": "Bosnia-Herzegovina",
+        "league": [
+            {
+                "id": "267",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Premier League"
+            }
+        ]
+    },
+    {
+        "countryCode": "BRA",
+        "countryName": "Brazil",
+        "league": [
+            {
+                "id": "268",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "Serie A"
+            },
+            {
+                "id": "9067",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Brazil Cup"
+            },
+            {
+                "id": "8980",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Brazil State Championship"
+            },
+            {
+                "id": "8814",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Serie B"
+            },
+            {
+                "id": "9429",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Sul-Minas"
+            }
+        ]
+    },
+    {
+        "countryCode": "BUL",
+        "countryName": "Bulgaria",
+        "league": [
+            {
+                "id": "270",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "First professional league"
+            }
+        ]
+    },
+    {
+        "countryCode": "CHI",
+        "countryName": "Chile",
+        "league": [
+            {
+                "id": "273",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Primera Division"
+            }
+        ]
+    },
+    {
+        "countryCode": "CHN",
+        "countryName": "China",
+        "league": [
+            {
+                "id": "120",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Super League"
+            }
+        ]
+    },
+    {
+        "countryCode": "COL",
+        "countryName": "Colombia",
+        "league": [
+            {
+                "id": "274",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Liga Águila"
+            }
+        ]
+    },
+    {
+        "countryCode": "CRC",
+        "countryName": "Costa Rica",
+        "league": [
+            {
+                "id": "121",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Costa Rica"
+            }
+        ]
+    },
+    {
+        "countryCode": "CRO",
+        "countryName": "Croatia",
+        "league": [
+            {
+                "id": "252",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "1. Division"
+            }
+        ]
+    },
+    {
+        "countryCode": "CYP",
+        "countryName": "Cyprus",
+        "league": [
+            {
+                "id": "136",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Cyprus"
+            }
+        ]
+    },
+    {
+        "countryCode": "CZE",
+        "countryName": "Czech Republic",
+        "league": [
+            {
+                "id": "122",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "1. Division"
+            },
+            {
+                "id": "253",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "FNL"
+            }
+        ]
+    },
+    {
+        "countryCode": "DEN",
+        "countryName": "Denmark",
+        "league": [
+            {
+                "id": "46",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "Superligaen"
+            },
+            {
+                "id": "85",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "1. Division"
+            },
+            {
+                "id": "239",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "2. Division"
+            },
+            {
+                "id": "242",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "DBU Pokalen"
+            }
+        ]
+    },
+    {
+        "countryCode": "ECU",
+        "countryName": "Ecuador",
+        "league": [
+            {
+                "id": "246",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Ecuador 1"
+            }
+        ]
+    },
+    {
+        "countryCode": "EGY",
+        "countryName": "Egypt",
+        "league": [
+            {
+                "id": "519",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Premier League"
+            }
+        ]
+    },
+    {
+        "countryCode": "SLV",
+        "countryName": "El Salvador",
+        "league": [
+            {
+                "id": "335",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Primera Division"
+            }
+        ]
+    },
+    {
+        "countryCode": "ENG",
+        "countryName": "England",
+        "league": [
+            {
+                "id": "47",
+                "sortLevel": "101",
+                "sortLevelInternal": "10",
+                "name": "Premier League"
+            },
+            {
+                "id": "48",
+                "sortLevel": "50",
+                "sortLevelInternal": "9",
+                "name": "Championship"
+            },
+            {
+                "id": "108",
+                "sortLevel": "20",
+                "sortLevelInternal": "8",
+                "name": "League 1"
+            },
+            {
+                "id": "109",
+                "sortLevel": "10",
+                "sortLevelInternal": "7",
+                "name": "League 2"
+            },
+            {
+                "id": "133",
+                "sortLevel": "100",
+                "sortLevelInternal": "6",
+                "name": "EFL Cup"
+            },
+            {
+                "id": "117",
+                "sortLevel": "0",
+                "sortLevelInternal": "6",
+                "name": "National League"
+            },
+            {
+                "id": "8944",
+                "sortLevel": "0",
+                "sortLevelInternal": "5",
+                "name": "National North & South"
+            },
+            {
+                "id": "9227",
+                "sortLevel": "0",
+                "sortLevelInternal": "2",
+                "name": "WSL (Women)"
+            },
+            {
+                "id": "247",
+                "sortLevel": "101",
+                "sortLevelInternal": "0",
+                "name": "Community Shield"
+            },
+            {
+                "id": "142",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "EFL Trophy"
+            },
+            {
+                "id": "132",
+                "sortLevel": "100",
+                "sortLevelInternal": "0",
+                "name": "FA Cup"
+            },
+            {
+                "id": "9253",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "FA Trophy"
+            }
+        ]
+    },
+    {
+        "countryCode": "EST",
+        "countryName": "Estonia",
+        "league": [
+            {
+                "id": "248",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Meistriliiga"
+            },
+            {
+                "id": "9069",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Super Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "FIN",
+        "countryName": "Finland",
+        "league": [
+            {
+                "id": "143",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Cup"
+            },
+            {
+                "id": "51",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Veikkausliiga"
+            },
+            {
+                "id": "251",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Ykkonen"
+            }
+        ]
+    },
+    {
+        "countryCode": "FRA",
+        "countryName": "France",
+        "league": [
+            {
+                "id": "53",
+                "sortLevel": "100",
+                "sortLevelInternal": "10",
+                "name": "Ligue 1"
+            },
+            {
+                "id": "110",
+                "sortLevel": "0",
+                "sortLevelInternal": "9",
+                "name": "Ligue 2"
+            },
+            {
+                "id": "8970",
+                "sortLevel": "0",
+                "sortLevelInternal": "8",
+                "name": "National"
+            },
+            {
+                "id": "134",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Coupe de France"
+            },
+            {
+                "id": "150",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Coupe de la Ligue"
+            },
+            {
+                "id": "9677",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Division 1 (W)"
+            },
+            {
+                "id": "207",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Supercup"
+            }
+        ]
+    },
+    {
+        "countryCode": "GER",
+        "countryName": "Germany",
+        "league": [
+            {
+                "id": "54",
+                "sortLevel": "100",
+                "sortLevelInternal": "20",
+                "name": "1. Bundesliga"
+            },
+            {
+                "id": "146",
+                "sortLevel": "50",
+                "sortLevelInternal": "19",
+                "name": "2. Bundesliga"
+            },
+            {
+                "id": "208",
+                "sortLevel": "0",
+                "sortLevelInternal": "18",
+                "name": "3. Liga"
+            },
+            {
+                "id": "209",
+                "sortLevel": "50",
+                "sortLevelInternal": "17",
+                "name": "DFB Pokal"
+            },
+            {
+                "id": "512",
+                "sortLevel": "0",
+                "sortLevelInternal": "16",
+                "name": "Regionalliga"
+            },
+            {
+                "id": "8924",
+                "sortLevel": "0",
+                "sortLevelInternal": "16",
+                "name": "Super Cup"
+            },
+            {
+                "id": "9081",
+                "sortLevel": "100",
+                "sortLevelInternal": "14",
+                "name": "Germany Promotion/Relegation"
+            },
+            {
+                "id": "9676",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Bundesliga (W)"
+            }
+        ]
+    },
+    {
+        "countryCode": "GRE",
+        "countryName": "Greece",
+        "league": [
+            {
+                "id": "135",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "Super League"
+            },
+            {
+                "id": "8815",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Football League"
+            },
+            {
+                "id": "145",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Greece Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "GUA",
+        "countryName": "Guatemala",
+        "league": [
+            {
+                "id": "336",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Liga Nacional"
+            }
+        ]
+    },
+    {
+        "countryCode": "HON",
+        "countryName": "Honduras",
+        "league": [
+            {
+                "id": "337",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Honduras 1"
+            }
+        ]
+    },
+    {
+        "countryCode": "HUN",
+        "countryName": "Hungary",
+        "league": [
+            {
+                "id": "212",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "NB I"
+            },
+            {
+                "id": "213",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "FA Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "ISL",
+        "countryName": "Iceland",
+        "league": [
+            {
+                "id": "215",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Urvalsdeild"
+            }
+        ]
+    },
+    {
+        "countryCode": "IND",
+        "countryName": "India",
+        "league": [
+            {
+                "id": "8982",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "I League"
+            },
+            {
+                "id": "9478",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Super League"
+            }
+        ]
+    },
+    {
+        "countryCode": "IDN",
+        "countryName": "Indonesia",
+        "league": [
+            {
+                "id": "8983",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Super League"
+            }
+        ]
+    },
+    {
+        "countryCode": "INT",
+        "countryName": "International",
+        "league": [
+            {
+                "id": "525",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "AFC Champions League"
+            },
+            {
+                "id": "9469",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "AFC Cup"
+            },
+            {
+                "id": "9265",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "AFF Suzuki Cup"
+            },
+            {
+                "id": "289",
+                "sortLevel": "100",
+                "sortLevelInternal": "0",
+                "name": "Africa Cup of Nations"
+            },
+            {
+                "id": "9428",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "African Nations Championship"
+            },
+            {
+                "id": "290",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Asian Cup"
+            },
+            {
+                "id": "526",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "CAF Champions League"
+            },
+            {
+                "id": "9468",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "CAF Confed Cup"
+            },
+            {
+                "id": "9408",
+                "sortLevel": "1000",
+                "sortLevelInternal": "0",
+                "name": "Champions Cup"
+            },
+            {
+                "id": "42",
+                "sortLevel": "1000",
+                "sortLevelInternal": "0",
+                "name": "Champions League"
+            },
+            {
+                "id": "9375",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Champions League (W)"
+            },
+            {
+                "id": "489",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Club Friendlies"
+            },
+            {
+                "id": "297",
+                "sortLevel": "100",
+                "sortLevelInternal": "0",
+                "name": "CONCACAF Champions League"
+            },
+            {
+                "id": "298",
+                "sortLevel": "100",
+                "sortLevelInternal": "0",
+                "name": "CONCACAF Gold Cup"
+            },
+            {
+                "id": "43",
+                "sortLevel": "1000",
+                "sortLevelInternal": "0",
+                "name": "Confederation Cup"
+            },
+            {
+                "id": "44",
+                "sortLevel": "1000",
+                "sortLevelInternal": "0",
+                "name": "Copa America"
+            },
+            {
+                "id": "9384",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Copa Centroamericana"
+            },
+            {
+                "id": "45",
+                "sortLevel": "100",
+                "sortLevelInternal": "0",
+                "name": "Copa Libertadores"
+            },
+            {
+                "id": "299",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Copa Sudamericana"
+            },
+            {
+                "id": "50",
+                "sortLevel": "1001",
+                "sortLevelInternal": "0",
+                "name": "EURO 2016"
+            },
+            {
+                "id": "292",
+                "sortLevel": "101",
+                "sortLevelInternal": "0",
+                "name": "Euro Championship (Women)"
+            },
+            {
+                "id": "73",
+                "sortLevel": "1000",
+                "sortLevelInternal": "0",
+                "name": "Europa League"
+            },
+            {
+                "id": "301",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "European Championship U-17"
+            },
+            {
+                "id": "287",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "European Championship U-19"
+            },
+            {
+                "id": "288",
+                "sortLevel": "50",
+                "sortLevelInternal": "0",
+                "name": "European Championship U-21"
+            },
+            {
+                "id": "78",
+                "sortLevel": "1000",
+                "sortLevelInternal": "0",
+                "name": "FIFA Club World Cup"
+            },
+            {
+                "id": "293",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Friendles (Women)"
+            },
+            {
+                "id": "114",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Friendlies"
+            },
+            {
+                "id": "329",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Gulf Cup"
+            },
+            {
+                "id": "9806",
+                "sortLevel": "1000",
+                "sortLevelInternal": "0",
+                "name": "Nations League A"
+            },
+            {
+                "id": "9807",
+                "sortLevel": "1000",
+                "sortLevelInternal": "0",
+                "name": "Nations League B"
+            },
+            {
+                "id": "9808",
+                "sortLevel": "1000",
+                "sortLevelInternal": "0",
+                "name": "Nations League C"
+            },
+            {
+                "id": "9809",
+                "sortLevel": "1000",
+                "sortLevelInternal": "0",
+                "name": "Nations League D"
+            },
+            {
+                "id": "65",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Summer Olympics Female"
+            },
+            {
+                "id": "66",
+                "sortLevel": "1000",
+                "sortLevelInternal": "0",
+                "name": "Summer Olympics Male"
+            },
+            {
+                "id": "74",
+                "sortLevel": "1000",
+                "sortLevelInternal": "0",
+                "name": "UEFA Supercup"
+            },
+            {
+                "id": "306",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "World Championship U-17"
+            },
+            {
+                "id": "296",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "World Championship U-20"
+            },
+            {
+                "id": "77",
+                "sortLevel": "999",
+                "sortLevelInternal": "0",
+                "name": "World Cup 2018"
+            },
+            {
+                "id": "76",
+                "sortLevel": "1000",
+                "sortLevelInternal": "0",
+                "name": "World Cup Qual 2019 (female)"
+            }
+        ]
+    },
+    {
+        "countryCode": "IRN",
+        "countryName": "Iran",
+        "league": [
+            {
+                "id": "9487",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Hazfi cup"
+            },
+            {
+                "id": "523",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Persian Gulf"
+            }
+        ]
+    },
+    {
+        "countryCode": "IRL",
+        "countryName": "Ireland",
+        "league": [
+            {
+                "id": "126",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "Premier Division"
+            },
+            {
+                "id": "218",
+                "sortLevel": "0",
+                "sortLevelInternal": "8",
+                "name": "1. Division"
+            },
+            {
+                "id": "219",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "FAI Cup"
+            },
+            {
+                "id": "220",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "League Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "ISR",
+        "countryName": "Israel",
+        "league": [
+            {
+                "id": "127",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "Ligat HaAl"
+            },
+            {
+                "id": "9097",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Cup"
+            },
+            {
+                "id": "128",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Leumit League"
+            },
+            {
+                "id": "9098",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Toto cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "ITA",
+        "countryName": "Italy",
+        "league": [
+            {
+                "id": "55",
+                "sortLevel": "100",
+                "sortLevelInternal": "9",
+                "name": "Serie A"
+            },
+            {
+                "id": "86",
+                "sortLevel": "0",
+                "sortLevelInternal": "8",
+                "name": "Serie B"
+            },
+            {
+                "id": "141",
+                "sortLevel": "0",
+                "sortLevelInternal": "7",
+                "name": "Coppa Italia"
+            },
+            {
+                "id": "147",
+                "sortLevel": "0",
+                "sortLevelInternal": "6",
+                "name": "Lega Pro"
+            },
+            {
+                "id": "222",
+                "sortLevel": "0",
+                "sortLevelInternal": "5",
+                "name": "Super Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "JPN",
+        "countryName": "Japan",
+        "league": [
+            {
+                "id": "223",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "J. League"
+            },
+            {
+                "id": "8974",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "J. League 2"
+            }
+        ]
+    },
+    {
+        "countryCode": "JOR",
+        "countryName": "Jordan",
+        "league": [
+            {
+                "id": "528",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Premier League"
+            }
+        ]
+    },
+    {
+        "countryCode": "KAZ",
+        "countryName": "Kazakhstan",
+        "league": [
+            {
+                "id": "225",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Kazakhstan - Premier League"
+            }
+        ]
+    },
+    {
+        "countryCode": "KEN",
+        "countryName": "Kenya",
+        "league": [
+            {
+                "id": "9004",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Premier League"
+            }
+        ]
+    },
+    {
+        "countryCode": "LVA",
+        "countryName": "Latvia",
+        "league": [
+            {
+                "id": "226",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Virsliga"
+            }
+        ]
+    },
+    {
+        "countryCode": "LTU",
+        "countryName": "Lithuania",
+        "league": [
+            {
+                "id": "228",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "A Lyga"
+            }
+        ]
+    },
+    {
+        "countryCode": "MKD",
+        "countryName": "Macedonia",
+        "league": [
+            {
+                "id": "249",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Prva Liga"
+            }
+        ]
+    },
+    {
+        "countryCode": "MAS",
+        "countryName": "Malaysia",
+        "league": [
+            {
+                "id": "9509",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Premier League"
+            },
+            {
+                "id": "8985",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Super Liga"
+            }
+        ]
+    },
+    {
+        "countryCode": "MEX",
+        "countryName": "Mexico",
+        "league": [
+            {
+                "id": "230",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "Liga MX"
+            },
+            {
+                "id": "9345",
+                "sortLevel": "0",
+                "sortLevelInternal": "8",
+                "name": "Copa MX"
+            },
+            {
+                "id": "9466",
+                "sortLevel": "0",
+                "sortLevelInternal": "8",
+                "name": "Supercopa MX"
+            }
+        ]
+    },
+    {
+        "countryCode": "MDA",
+        "countryName": "Moldova",
+        "league": [
+            {
+                "id": "231",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Moldova"
+            }
+        ]
+    },
+    {
+        "countryCode": "MNE",
+        "countryName": "Montenegro",
+        "league": [
+            {
+                "id": "232",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "1. CFL"
+            }
+        ]
+    },
+    {
+        "countryCode": "MAR",
+        "countryName": "Morocco",
+        "league": [
+            {
+                "id": "530",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Botola Pro"
+            }
+        ]
+    },
+    {
+        "countryCode": "NED",
+        "countryName": "Netherlands",
+        "league": [
+            {
+                "id": "57",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "Eredivisie"
+            },
+            {
+                "id": "111",
+                "sortLevel": "0",
+                "sortLevelInternal": "9",
+                "name": "Eerste Divisie"
+            },
+            {
+                "id": "58",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Eredivisie Qualification"
+            },
+            {
+                "id": "235",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "KNVB Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "NGA",
+        "countryName": "Nigeria",
+        "league": [
+            {
+                "id": "533",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Professional Football League"
+            }
+        ]
+    },
+    {
+        "countryCode": "NIR",
+        "countryName": "Northern Ireland",
+        "league": [
+            {
+                "id": "129",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Northern Ireland"
+            }
+        ]
+    },
+    {
+        "countryCode": "NOR",
+        "countryName": "Norway",
+        "league": [
+            {
+                "id": "59",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "Eliteserien"
+            },
+            {
+                "id": "206",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Norgesmesterskapet"
+            },
+            {
+                "id": "203",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "OBOS-ligaen"
+            }
+        ]
+    },
+    {
+        "countryCode": "PAR",
+        "countryName": "Paraguay",
+        "league": [
+            {
+                "id": "199",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Division Profesional"
+            }
+        ]
+    },
+    {
+        "countryCode": "PER",
+        "countryName": "Peru",
+        "league": [
+            {
+                "id": "131",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Peru"
+            }
+        ]
+    },
+    {
+        "countryCode": "POL",
+        "countryName": "Poland",
+        "league": [
+            {
+                "id": "197",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "1. Division"
+            },
+            {
+                "id": "196",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Ekstraklasa"
+            }
+        ]
+    },
+    {
+        "countryCode": "POR",
+        "countryName": "Portugal",
+        "league": [
+            {
+                "id": "61",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "Primeira Liga"
+            },
+            {
+                "id": "185",
+                "sortLevel": "0",
+                "sortLevelInternal": "8",
+                "name": "Segunda Liga"
+            },
+            {
+                "id": "187",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "League Cup"
+            },
+            {
+                "id": "186",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Portugal Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "ROU",
+        "countryName": "Romania",
+        "league": [
+            {
+                "id": "189",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Romania 1"
+            },
+            {
+                "id": "190",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Romania Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "RUS",
+        "countryName": "Russia",
+        "league": [
+            {
+                "id": "63",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "Premier League"
+            },
+            {
+                "id": "338",
+                "sortLevel": "0",
+                "sortLevelInternal": "7",
+                "name": "1. Division"
+            },
+            {
+                "id": "9123",
+                "sortLevel": "0",
+                "sortLevelInternal": "7",
+                "name": "2. Division"
+            }
+        ]
+    },
+    {
+        "countryCode": "KSA",
+        "countryName": "Saudi Arabia",
+        "league": [
+            {
+                "id": "536",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Premier League"
+            }
+        ]
+    },
+    {
+        "countryCode": "SCO",
+        "countryName": "Scotland",
+        "league": [
+            {
+                "id": "64",
+                "sortLevel": "50",
+                "sortLevelInternal": "10",
+                "name": "Premiership"
+            },
+            {
+                "id": "123",
+                "sortLevel": "0",
+                "sortLevelInternal": "9",
+                "name": "Championship"
+            },
+            {
+                "id": "124",
+                "sortLevel": "0",
+                "sortLevelInternal": "8",
+                "name": "League One"
+            },
+            {
+                "id": "125",
+                "sortLevel": "0",
+                "sortLevelInternal": "7",
+                "name": "League Two"
+            },
+            {
+                "id": "181",
+                "sortLevel": "0",
+                "sortLevelInternal": "6",
+                "name": "Scotland Promotion/Relegation"
+            },
+            {
+                "id": "179",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Challenge Cup"
+            },
+            {
+                "id": "137",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Scotland Cup"
+            },
+            {
+                "id": "180",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Scotland League Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "SRB",
+        "countryName": "Serbia",
+        "league": [
+            {
+                "id": "182",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Super Liga"
+            }
+        ]
+    },
+    {
+        "countryCode": "SIN",
+        "countryName": "Singapore",
+        "league": [
+            {
+                "id": "461",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "S. League"
+            }
+        ]
+    },
+    {
+        "countryCode": "SVK",
+        "countryName": "Slovakia",
+        "league": [
+            {
+                "id": "176",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Corgon Liga"
+            }
+        ]
+    },
+    {
+        "countryCode": "SVN",
+        "countryName": "Slovenia",
+        "league": [
+            {
+                "id": "173",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Prva Liga"
+            }
+        ]
+    },
+    {
+        "countryCode": "RSA",
+        "countryName": "South Africa",
+        "league": [
+            {
+                "id": "537",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Premier Soccer League"
+            }
+        ]
+    },
+    {
+        "countryCode": "KOR",
+        "countryName": "South Korea",
+        "league": [
+            {
+                "id": "9080",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "K League Classic"
+            },
+            {
+                "id": "9116",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "K League Challenge"
+            }
+        ]
+    },
+    {
+        "countryCode": "ESP",
+        "countryName": "Spain",
+        "league": [
+            {
+                "id": "87",
+                "sortLevel": "100",
+                "sortLevelInternal": "10",
+                "name": "Primera Division"
+            },
+            {
+                "id": "140",
+                "sortLevel": "0",
+                "sortLevelInternal": "9",
+                "name": "Segunda Division"
+            },
+            {
+                "id": "8968",
+                "sortLevel": "0",
+                "sortLevelInternal": "8",
+                "name": "Segunda B"
+            },
+            {
+                "id": "138",
+                "sortLevel": "50",
+                "sortLevelInternal": "7",
+                "name": "Copa del Rey"
+            },
+            {
+                "id": "139",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Supercup"
+            }
+        ]
+    },
+    {
+        "countryCode": "SWE",
+        "countryName": "Sweden",
+        "league": [
+            {
+                "id": "67",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Allsvenskan"
+            },
+            {
+                "id": "171",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Cup"
+            },
+            {
+                "id": "168",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Superettan"
+            }
+        ]
+    },
+    {
+        "countryCode": "SUI",
+        "countryName": "Switzerland",
+        "league": [
+            {
+                "id": "163",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Challenge League"
+            },
+            {
+                "id": "69",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Super League"
+            },
+            {
+                "id": "164",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Swiss Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "THA",
+        "countryName": "Thailand",
+        "league": [
+            {
+                "id": "8984",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Premier League"
+            }
+        ]
+    },
+    {
+        "countryCode": "TUN",
+        "countryName": "Tunisia",
+        "league": [
+            {
+                "id": "544",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Tunisia"
+            }
+        ]
+    },
+    {
+        "countryCode": "TUR",
+        "countryName": "Turkey",
+        "league": [
+            {
+                "id": "71",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "Super Lig"
+            },
+            {
+                "id": "165",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "1. Lig"
+            },
+            {
+                "id": "151",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Turkey Cup"
+            }
+        ]
+    },
+    {
+        "countryCode": "UKR",
+        "countryName": "Ukraine",
+        "league": [
+            {
+                "id": "441",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Premier League"
+            }
+        ]
+    },
+    {
+        "countryCode": "UAE",
+        "countryName": "United Arab Emirates",
+        "league": [
+            {
+                "id": "538",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Arabian Gulf League"
+            }
+        ]
+    },
+    {
+        "countryCode": "USA",
+        "countryName": "United States",
+        "league": [
+            {
+                "id": "130",
+                "sortLevel": "100",
+                "sortLevelInternal": "10",
+                "name": "MLS"
+            },
+            {
+                "id": "9441",
+                "sortLevel": "0",
+                "sortLevelInternal": "10",
+                "name": "Open Cup"
+            },
+            {
+                "id": "8972",
+                "sortLevel": "0",
+                "sortLevelInternal": "9",
+                "name": "NASL"
+            },
+            {
+                "id": "9296",
+                "sortLevel": "0",
+                "sortLevelInternal": "8",
+                "name": "USL"
+            },
+            {
+                "id": "9134",
+                "sortLevel": "0",
+                "sortLevelInternal": "7",
+                "name": "NWSL"
+            },
+            {
+                "id": "9494",
+                "sortLevel": "0",
+                "sortLevelInternal": "6",
+                "name": "PDL"
+            }
+        ]
+    },
+    {
+        "countryCode": "URU",
+        "countryName": "Uruguay",
+        "league": [
+            {
+                "id": "161",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Primera Division"
+            }
+        ]
+    },
+    {
+        "countryCode": "VEN",
+        "countryName": "Venezuela",
+        "league": [
+            {
+                "id": "339",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Primera Division"
+            }
+        ]
+    },
+    {
+        "countryCode": "WAL",
+        "countryName": "Wales",
+        "league": [
+            {
+                "id": "116",
+                "sortLevel": "0",
+                "sortLevelInternal": "0",
+                "name": "Premier League"
+            }
+        ]
+    }
+]
