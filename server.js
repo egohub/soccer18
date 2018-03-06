@@ -36,6 +36,13 @@ app.use('/football', football);
 //           res.send(article);
 //     });
 // });
+var LIVE_API = 'process.env.API_URL';
+app.get('/live', function (req, res) {
+  request(LIVE_API,function(err, resq, body){
+    var json = JSON.parse(body);
+    res.send(json);
+  })
+});
 
 app.get('/countries', function (req, res) {
   console.log(countries);
