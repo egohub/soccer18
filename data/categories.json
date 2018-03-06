@@ -1,0 +1,522 @@
+[
+    {
+        "id": "africa",
+        "leagueName": "Africa"
+    },
+    {
+        "id": "albania",
+        "leagueName": "Albania"
+    },
+    {
+        "id": "algeria",
+        "leagueName": "Algeria"
+    },
+    {
+        "id": "andorra",
+        "leagueName": "Andorra"
+    },
+    {
+        "id": "angola",
+        "leagueName": "Angola"
+    },
+    {
+        "id": "argentina",
+        "leagueName": "Argentina"
+    },
+    {
+        "id": "armenia",
+        "leagueName": "Armenia"
+    },
+    {
+        "id": "asia",
+        "leagueName": "Asia"
+    },
+    {
+        "id": "australia",
+        "leagueName": "Australia"
+    },
+    {
+        "id": "austria",
+        "leagueName": "Austria"
+    },
+    {
+        "id": "austria-amateur",
+        "leagueName": "Austria Amateur"
+    },
+    {
+        "id": "azerbaijan",
+        "leagueName": "Azerbaijan"
+    },
+    {
+        "id": "bahrain",
+        "leagueName": "Bahrain"
+    },
+    {
+        "id": "belarus",
+        "leagueName": "Belarus"
+    },
+    {
+        "id": "belgium",
+        "leagueName": "Belgium"
+    },
+    {
+        "id": "bolivia",
+        "leagueName": "Bolivia"
+    },
+    {
+        "id": "bosnia-herzegovina",
+        "leagueName": "Bosnia & Herzegovina"
+    },
+    {
+        "id": "brazil",
+        "leagueName": "Brazil"
+    },
+    {
+        "id": "bulgaria",
+        "leagueName": "Bulgaria"
+    },
+    {
+        "id": "cameroon",
+        "leagueName": "Cameroon"
+    },
+    {
+        "id": "canada",
+        "leagueName": "Canada"
+    },
+    {
+        "id": "chile",
+        "leagueName": "Chile"
+    },
+    {
+        "id": "china",
+        "leagueName": "China"
+    },
+    {
+        "id": "colombia",
+        "leagueName": "Colombia"
+    },
+    {
+        "id": "congo-republic",
+        "leagueName": "Congo Republic"
+    },
+    {
+        "id": "costa-rica",
+        "leagueName": "Costa Rica"
+    },
+    {
+        "id": "croatia",
+        "leagueName": "Croatia"
+    },
+    {
+        "id": "cyprus",
+        "leagueName": "Cyprus"
+    },
+    {
+        "id": "czech-republic",
+        "leagueName": "Czech Republic"
+    },
+    {
+        "id": "denmark",
+        "leagueName": "Denmark"
+    },
+    {
+        "id": "denmark-amateur",
+        "leagueName": "Denmark Amateur"
+    },
+    {
+        "id": "ecuador",
+        "leagueName": "Ecuador"
+    },
+    {
+        "id": "egypt",
+        "leagueName": "Egypt"
+    },
+    {
+        "id": "el-salvador",
+        "leagueName": "El Salvador"
+    },
+    {
+        "id": "england",
+        "leagueName": "England"
+    },
+    {
+        "id": "england-amateur",
+        "leagueName": "England Amateur"
+    },
+    {
+        "id": "estonia",
+        "leagueName": "Estonia"
+    },
+    {
+        "id": "europe",
+        "leagueName": "Europe"
+    },
+    {
+        "id": "faroe-islands",
+        "leagueName": "Faroe Islands"
+    },
+    {
+        "id": "finland",
+        "leagueName": "Finland"
+    },
+    {
+        "id": "france",
+        "leagueName": "France"
+    },
+    {
+        "id": "georgia",
+        "leagueName": "Georgia"
+    },
+    {
+        "id": "germany",
+        "leagueName": "Germany"
+    },
+    {
+        "id": "germany-amateur",
+        "leagueName": "Germany Amateur"
+    },
+    {
+        "id": "ghana",
+        "leagueName": "Ghana"
+    },
+    {
+        "id": "gibraltar",
+        "leagueName": "Gibraltar"
+    },
+    {
+        "id": "greece",
+        "leagueName": "Greece"
+    },
+    {
+        "id": "guatemala",
+        "leagueName": "Guatemala"
+    },
+    {
+        "id": "honduras",
+        "leagueName": "Honduras"
+    },
+    {
+        "id": "hong-kong",
+        "leagueName": "Hong Kong"
+    },
+    {
+        "id": "hungary",
+        "leagueName": "Hungary"
+    },
+    {
+        "id": "iceland",
+        "leagueName": "Iceland"
+    },
+    {
+        "id": "india",
+        "leagueName": "India"
+    },
+    {
+        "id": "indonesia",
+        "leagueName": "Indonesia"
+    },
+    {
+        "id": "iran",
+        "leagueName": "Iran"
+    },
+    {
+        "id": "ireland",
+        "leagueName": "Ireland"
+    },
+    {
+        "id": "israel",
+        "leagueName": "Israel"
+    },
+    {
+        "id": "italy",
+        "leagueName": "Italy"
+    },
+    {
+        "id": "ivory-coast",
+        "leagueName": "Ivory Coast"
+    },
+    {
+        "id": "jamaica",
+        "leagueName": "Jamaica"
+    },
+    {
+        "id": "japan",
+        "leagueName": "Japan"
+    },
+    {
+        "id": "jordan",
+        "leagueName": "Jordan"
+    },
+    {
+        "id": "kazakhstan",
+        "leagueName": "Kazakhstan"
+    },
+    {
+        "id": "kenya",
+        "leagueName": "Kenya"
+    },
+    {
+        "id": "kosovo",
+        "leagueName": "Kosovo"
+    },
+    {
+        "id": "kuwait",
+        "leagueName": "Kuwait"
+    },
+    {
+        "id": "latvia",
+        "leagueName": "Latvia"
+    },
+    {
+        "id": "lebanon",
+        "leagueName": "Lebanon"
+    },
+    {
+        "id": "liechtenstein",
+        "leagueName": "Liechtenstein"
+    },
+    {
+        "id": "lithuania",
+        "leagueName": "Lithuania"
+    },
+    {
+        "id": "luxembourg",
+        "leagueName": "Luxembourg"
+    },
+    {
+        "id": "macedonia",
+        "leagueName": "Macedonia"
+    },
+    {
+        "id": "malaysia",
+        "leagueName": "Malaysia"
+    },
+    {
+        "id": "malta",
+        "leagueName": "Malta"
+    },
+    {
+        "id": "mexico",
+        "leagueName": "Mexico"
+    },
+    {
+        "id": "moldova",
+        "leagueName": "Moldova"
+    },
+    {
+        "id": "montenegro",
+        "leagueName": "Montenegro"
+    },
+    {
+        "id": "morocco",
+        "leagueName": "Morocco"
+    },
+    {
+        "id": "netherlands",
+        "leagueName": "Netherlands"
+    },
+    {
+        "id": "new-zealand",
+        "leagueName": "New Zealand"
+    },
+    {
+        "id": "nigeria",
+        "leagueName": "Nigeria"
+    },
+    {
+        "id": "north-central-america",
+        "leagueName": "North & Central America"
+    },
+    {
+        "id": "northern-ireland",
+        "leagueName": "Northern Ireland"
+    },
+    {
+        "id": "norway",
+        "leagueName": "Norway"
+    },
+    {
+        "id": "oceania",
+        "leagueName": "Oceania"
+    },
+    {
+        "id": "oman",
+        "leagueName": "Oman"
+    },
+    {
+        "id": "pakistan",
+        "leagueName": "Pakistan"
+    },
+    {
+        "id": "palestine",
+        "leagueName": "Palestine"
+    },
+    {
+        "id": "panama",
+        "leagueName": "Panama"
+    },
+    {
+        "id": "paraguay",
+        "leagueName": "Paraguay"
+    },
+    {
+        "id": "peru",
+        "leagueName": "Peru"
+    },
+    {
+        "id": "philippines",
+        "leagueName": "Philippines"
+    },
+    {
+        "id": "poland",
+        "leagueName": "Poland"
+    },
+    {
+        "id": "portugal",
+        "leagueName": "Portugal"
+    },
+    {
+        "id": "qatar",
+        "leagueName": "Qatar"
+    },
+    {
+        "id": "romania",
+        "leagueName": "Romania"
+    },
+    {
+        "id": "russia",
+        "leagueName": "Russia"
+    },
+    {
+        "id": "rwanda",
+        "leagueName": "Rwanda"
+    },
+    {
+        "id": "san-marino",
+        "leagueName": "San Marino"
+    },
+    {
+        "id": "saudi-arabia",
+        "leagueName": "Saudi Arabia"
+    },
+    {
+        "id": "scotland",
+        "leagueName": "Scotland"
+    },
+    {
+        "id": "senegal",
+        "leagueName": "Senegal"
+    },
+    {
+        "id": "serbia",
+        "leagueName": "Serbia"
+    },
+    {
+        "id": "singapore",
+        "leagueName": "Singapore"
+    },
+    {
+        "id": "slovakia",
+        "leagueName": "Slovakia"
+    },
+    {
+        "id": "slovenia",
+        "leagueName": "Slovenia"
+    },
+    {
+        "id": "south-africa",
+        "leagueName": "South Africa"
+    },
+    {
+        "id": "south-america",
+        "leagueName": "South America"
+    },
+    {
+        "id": "south-korea",
+        "leagueName": "South Korea"
+    },
+    {
+        "id": "spain",
+        "leagueName": "Spain"
+    },
+    {
+        "id": "spain-amateur",
+        "leagueName": "Spain Amateur"
+    },
+    {
+        "id": "sweden",
+        "leagueName": "Sweden"
+    },
+    {
+        "id": "sweden-amateur",
+        "leagueName": "Sweden Amateur"
+    },
+    {
+        "id": "switzerland",
+        "leagueName": "Switzerland"
+    },
+    {
+        "id": "tanzania",
+        "leagueName": "Tanzania"
+    },
+    {
+        "id": "thailand",
+        "leagueName": "Thailand"
+    },
+    {
+        "id": "tunisia",
+        "leagueName": "Tunisia"
+    },
+    {
+        "id": "turkey",
+        "leagueName": "Turkey"
+    },
+    {
+        "id": "turkey-amateur",
+        "leagueName": "Turkey Amateur"
+    },
+    {
+        "id": "usa",
+        "leagueName": "USA"
+    },
+    {
+        "id": "uganda",
+        "leagueName": "Uganda"
+    },
+    {
+        "id": "ukraine",
+        "leagueName": "Ukraine"
+    },
+    {
+        "id": "united-arab-emirates",
+        "leagueName": "United Arab Emirates"
+    },
+    {
+        "id": "uruguay",
+        "leagueName": "Uruguay"
+    },
+    {
+        "id": "uzbekistan",
+        "leagueName": "Uzbekistan"
+    },
+    {
+        "id": "venezuela",
+        "leagueName": "Venezuela"
+    },
+    {
+        "id": "vietnam",
+        "leagueName": "Vietnam"
+    },
+    {
+        "id": "wales",
+        "leagueName": "Wales"
+    },
+    {
+        "id": "world",
+        "leagueName": "World"
+    },
+    {
+        "id": "zambia",
+        "leagueName": "Zambia"
+    }
+]
