@@ -120,4 +120,9 @@ app.get('/tournament/:category/:slug/:id', function (req, res) {
   })
 
 });
-app.listen(3000);
+var port = process.env.PORT || 3000;
+
+// app.listen(3000);
+app.listen(port, () => {
+  console.log('The party is on at port ' + port);
+});
