@@ -1,0 +1,4698 @@
+[
+  {
+    "country": "Afghanistan",
+    "league": [
+      {
+        "name": "Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Albania",
+    "league": [
+      {
+        "name": "Superliga"
+      },
+      {
+        "name": "1st Division"
+      },
+      {
+        "name": "2nd Division"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Kampionati Femrave"
+      }
+    ]
+  },
+  {
+    "country": "Algeria",
+    "league": [
+      {
+        "name": "Ligue 1"
+      },
+      {
+        "name": "Ligue 2"
+      },
+      {
+        "name": "Coupe Nationale"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "U21 League 1"
+      }
+    ]
+  },
+  {
+    "country": "Andorra",
+    "league": [
+      {
+        "name": "1a Divisió"
+      },
+      {
+        "name": "2a Divisió"
+      },
+      {
+        "name": "Copa Constitució"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Angola",
+    "league": [
+      {
+        "name": "Girabola"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "league": [
+      {
+        "name": "Premier Division"
+      }
+    ]
+  },
+  {
+    "country": "Argentina",
+    "league": [
+      {
+        "name": "Superliga"
+      },
+      {
+        "name": "Prim B Nacional"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Play-offs 3/4"
+      },
+      {
+        "name": "Play-offs 4/5"
+      },
+      {
+        "name": "Reserve League"
+      },
+      {
+        "name": "Primera A"
+      },
+      {
+        "name": "Copa Libertadores Play-off"
+      },
+      {
+        "name": "Copa Bicentenario"
+      },
+      {
+        "name": "Prim B Metro"
+      },
+      {
+        "name": "Torneo Federal A"
+      },
+      {
+        "name": "Primera C"
+      },
+      {
+        "name": "Torneo Federal B"
+      },
+      {
+        "name": "Primera D"
+      },
+      {
+        "name": "Copa Argentina"
+      },
+      {
+        "name": "Super Copa"
+      },
+      {
+        "name": "Torneos de Verano"
+      }
+    ]
+  },
+  {
+    "country": "Armenia",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "First League"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Aruba",
+    "league": [
+      {
+        "name": "Division di Honor"
+      },
+      {
+        "name": "Copa Betico Croes"
+      }
+    ]
+  },
+  {
+    "country": "Australia",
+    "league": [
+      {
+        "name": "A-League"
+      },
+      {
+        "name": "National Premier Leagues"
+      },
+      {
+        "name": "NSW Waratah Cup"
+      },
+      {
+        "name": "Western Australia Night Series"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Brisbane Reserves Premier League"
+      },
+      {
+        "name": "South Australia Reserves Premier League"
+      },
+      {
+        "name": "National Youth League"
+      },
+      {
+        "name": "NPL Youth League"
+      },
+      {
+        "name": "W-League"
+      },
+      {
+        "name": "Women's National Premier Leagues"
+      },
+      {
+        "name": "Victoria Women's Premier League"
+      },
+      {
+        "name": "State Leagues"
+      },
+      {
+        "name": "NSW Pre-Season Cup"
+      },
+      {
+        "name": "Macron Pre-Season Cup"
+      },
+      {
+        "name": "Brisbane Capital League 1"
+      },
+      {
+        "name": "Western Australia"
+      },
+      {
+        "name": "Capital Territory"
+      },
+      {
+        "name": "Victoria Division One"
+      },
+      {
+        "name": "Victoria"
+      },
+      {
+        "name": "Tasmania"
+      },
+      {
+        "name": "T-League (Victory League)"
+      },
+      {
+        "name": "South Australian"
+      },
+      {
+        "name": "Northern Territory"
+      },
+      {
+        "name": "New South Wales"
+      },
+      {
+        "name": "Queensland"
+      },
+      {
+        "name": "Pre-Season Cup"
+      },
+      {
+        "name": "Northern NSW"
+      },
+      {
+        "name": "NSL"
+      },
+      {
+        "name": "Brisbane Canale Cup"
+      },
+      {
+        "name": "Brisbane"
+      },
+      {
+        "name": "FFA Cup"
+      },
+      {
+        "name": "FFV Community Shield"
+      },
+      {
+        "name": "Football West State Cup"
+      },
+      {
+        "name": "Dockerty Cup"
+      }
+    ]
+  },
+  {
+    "country": "Austria",
+    "league": [
+      {
+        "name": "Bundesliga"
+      },
+      {
+        "name": "1. Liga"
+      },
+      {
+        "name": "Women's Cup"
+      },
+      {
+        "name": "Regionalliga"
+      },
+      {
+        "name": "Landesliga"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Play-off 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Jugendliga U18"
+      },
+      {
+        "name": "Frauenliga"
+      },
+      {
+        "name": "2. Frauenliga"
+      }
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "league": [
+      {
+        "name": "Premyer Liqa"
+      },
+      {
+        "name": "Birinci Dasta"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Reserve League"
+      }
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "Second Division"
+      },
+      {
+        "name": "King's Cup"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "Federation Cup"
+      }
+    ]
+  },
+  {
+    "country": "Barbados",
+    "league": [
+      {
+        "name": "Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Belarus",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "1. Division"
+      },
+      {
+        "name": "2. Division"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Reserve League"
+      },
+      {
+        "name": "Premier League Women"
+      },
+      {
+        "name": "Women's Cup"
+      },
+      {
+        "name": "Super Cup Women"
+      }
+    ]
+  },
+  {
+    "country": "Belgium",
+    "league": [
+      {
+        "name": "First Division A"
+      },
+      {
+        "name": "First Division B"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Play-offs 3/4"
+      },
+      {
+        "name": "Play-offs 4/5"
+      },
+      {
+        "name": "Reserve Pro League"
+      },
+      {
+        "name": "Super League"
+      },
+      {
+        "name": "First Division Women"
+      },
+      {
+        "name": "Second Division Women"
+      },
+      {
+        "name": "Women's Cup"
+      },
+      {
+        "name": "Super Cup Women"
+      },
+      {
+        "name": "Women's Play-offs 1/2"
+      },
+      {
+        "name": "First Amateur Division"
+      },
+      {
+        "name": "Women's Play-offs 2/3"
+      },
+      {
+        "name": "Second Amateur Division"
+      },
+      {
+        "name": "Third Amateur Division"
+      },
+      {
+        "name": "Provincial"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "UEFA Europa League Play-offs"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Belize",
+    "league": [
+      {
+        "name": "Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Benin",
+    "league": [
+      {
+        "name": "Championnat National"
+      }
+    ]
+  },
+  {
+    "country": "Bermuda",
+    "league": [
+      {
+        "name": "Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Bhutan",
+    "league": [
+      {
+        "name": "National League"
+      },
+      {
+        "name": "Thimphu League"
+      }
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "league": [
+      {
+        "name": "Primera División"
+      },
+      {
+        "name": "Nacional B"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "league": [
+      {
+        "name": "Premijer Liga"
+      },
+      {
+        "name": "1st League"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Premijer Ženska Liga"
+      }
+    ]
+  },
+  {
+    "country": "Botswana",
+    "league": [
+      {
+        "name": "Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "league": [
+      {
+        "name": "Serie A"
+      },
+      {
+        "name": "Serie B"
+      },
+      {
+        "name": "Baiano 1"
+      },
+      {
+        "name": "Catarinense 1"
+      },
+      {
+        "name": "Cearense 1"
+      },
+      {
+        "name": "Goiano 1"
+      },
+      {
+        "name": "Paranaense 1"
+      },
+      {
+        "name": "Pernambucano 1"
+      },
+      {
+        "name": "Acreano"
+      },
+      {
+        "name": "Alagoano"
+      },
+      {
+        "name": "Amapaense"
+      },
+      {
+        "name": "Amazonense"
+      },
+      {
+        "name": "Serie C"
+      },
+      {
+        "name": "Brasiliense"
+      },
+      {
+        "name": "Capixaba"
+      },
+      {
+        "name": "Maranhense"
+      },
+      {
+        "name": "Matogrossense"
+      },
+      {
+        "name": "Paraense"
+      },
+      {
+        "name": "Paraibano"
+      },
+      {
+        "name": "Piauiense"
+      },
+      {
+        "name": "Potiguar"
+      },
+      {
+        "name": "Rondoniense"
+      },
+      {
+        "name": "Roraimense"
+      },
+      {
+        "name": "Serie D"
+      },
+      {
+        "name": "Sergipano"
+      },
+      {
+        "name": "Sul-Matogrossense"
+      },
+      {
+        "name": "Tocantinense"
+      },
+      {
+        "name": "Paulista A2"
+      },
+      {
+        "name": "Carioca 2"
+      },
+      {
+        "name": "Gaúcho 2"
+      },
+      {
+        "name": "Mineiro 2"
+      },
+      {
+        "name": "Baiano 2"
+      },
+      {
+        "name": "Catarinense 2"
+      },
+      {
+        "name": "Cearense 2"
+      },
+      {
+        "name": "Copa do Brasil"
+      },
+      {
+        "name": "Goiano 2"
+      },
+      {
+        "name": "Paranaense 2"
+      },
+      {
+        "name": "Pernambucano 2"
+      },
+      {
+        "name": "Paulista A3"
+      },
+      {
+        "name": "Paulista Série B"
+      },
+      {
+        "name": "Copa Paulista"
+      },
+      {
+        "name": "Copa Gaúcha"
+      },
+      {
+        "name": "Copa Rio"
+      },
+      {
+        "name": "Copa do Nordeste"
+      },
+      {
+        "name": "Copa Fares Lopes"
+      },
+      {
+        "name": "Primeira Liga"
+      },
+      {
+        "name": "Copa Governador"
+      },
+      {
+        "name": "Copa Santa Catarina"
+      },
+      {
+        "name": "Copa Verde"
+      },
+      {
+        "name": "Brasileiro de Aspirantes"
+      },
+      {
+        "name": "Copa do Brasil U20"
+      },
+      {
+        "name": "CBF Brasileiro U20"
+      },
+      {
+        "name": "Paulista U20"
+      },
+      {
+        "name": "Carioca U20"
+      },
+      {
+        "name": "Mineiro U20"
+      },
+      {
+        "name": "Gaúcho - Estadual Junior U20"
+      },
+      {
+        "name": "Paulista A1"
+      },
+      {
+        "name": "Baiano U20"
+      },
+      {
+        "name": "São Paulo Youth Cup"
+      },
+      {
+        "name": "Copa RS U20"
+      },
+      {
+        "name": "Copa Gaúcho U19"
+      },
+      {
+        "name": "Paranaense U19"
+      },
+      {
+        "name": "Copa do Brasil U17"
+      },
+      {
+        "name": "Brasileiro U17"
+      },
+      {
+        "name": "Brasileiro Women"
+      },
+      {
+        "name": "Paulista Women"
+      },
+      {
+        "name": "Carioca Women"
+      },
+      {
+        "name": "Carioca 1"
+      },
+      {
+        "name": "Copa do Brasil Feminino"
+      },
+      {
+        "name": "Gaúcho 1"
+      },
+      {
+        "name": "Mineiro 1"
+      }
+    ]
+  },
+  {
+    "country": "British Virgin Islands",
+    "league": [
+      {
+        "name": "BVIFA National League"
+      }
+    ]
+  },
+  {
+    "country": "Brunei Darussalam",
+    "league": [
+      {
+        "name": "Super League"
+      }
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "league": [
+      {
+        "name": "First League"
+      },
+      {
+        "name": "Second League"
+      },
+      {
+        "name": "Third League"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Elite U19"
+      },
+      {
+        "name": "U18 Cup"
+      },
+      {
+        "name": "Women's League"
+      }
+    ]
+  },
+  {
+    "country": "Burkina Faso",
+    "league": [
+      {
+        "name": "1ère Division"
+      }
+    ]
+  },
+  {
+    "country": "Burundi",
+    "league": [
+      {
+        "name": "Ligue A"
+      }
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "league": [
+      {
+        "name": "C-League"
+      },
+      {
+        "name": "Hun Sen Cup"
+      }
+    ]
+  },
+  {
+    "country": "Cameroon",
+    "league": [
+      {
+        "name": "Elite ONE"
+      },
+      {
+        "name": "Elite Two"
+      }
+    ]
+  },
+  {
+    "country": "Canada",
+    "league": [
+      {
+        "name": "Canadian Soccer League"
+      },
+      {
+        "name": "PCSL"
+      },
+      {
+        "name": "Canadian Championship"
+      },
+      {
+        "name": "Reserve League"
+      }
+    ]
+  },
+  {
+    "country": "Cape Verde Islands",
+    "league": [
+      {
+        "name": "Campeonato Nacional"
+      }
+    ]
+  },
+  {
+    "country": "Cayman Islands",
+    "league": [
+      {
+        "name": "CIFA Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Chad",
+    "league": [
+      {
+        "name": "LFN"
+      }
+    ]
+  },
+  {
+    "country": "Chile",
+    "league": [
+      {
+        "name": "Primera División"
+      },
+      {
+        "name": "Primera B"
+      },
+      {
+        "name": "Segunda División"
+      },
+      {
+        "name": "Tercera A"
+      },
+      {
+        "name": "Copa Chile"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Play-offs 3/4"
+      }
+    ]
+  },
+  {
+    "country": "China PR",
+    "league": [
+      {
+        "name": "CSL"
+      },
+      {
+        "name": "China League One"
+      },
+      {
+        "name": "FA Cup"
+      },
+      {
+        "name": "CSL Cup"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Chinese Taipei",
+    "league": [
+      {
+        "name": "Taiwan Football Premier League"
+      },
+      {
+        "name": "U18 League"
+      },
+      {
+        "name": "Women's National League"
+      },
+      {
+        "name": "Enterprise Football League"
+      }
+    ]
+  },
+  {
+    "country": "Colombia",
+    "league": [
+      {
+        "name": "Primera A"
+      },
+      {
+        "name": "Primera B"
+      },
+      {
+        "name": "Copa Colombia"
+      },
+      {
+        "name": "Superliga"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Liga Femenina"
+      },
+      {
+        "name": "Cuadrangulares de ascenso"
+      }
+    ]
+  },
+  {
+    "country": "Congo DR",
+    "league": [
+      {
+        "name": "Super Ligue"
+      }
+    ]
+  },
+  {
+    "country": "Congo",
+    "league": [
+      {
+        "name": "Ligue 1"
+      }
+    ]
+  },
+  {
+    "country": "Cook Islands",
+    "league": [
+      {
+        "name": "Round Cup"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "league": [
+      {
+        "name": "Primera División"
+      },
+      {
+        "name": "Liga de Ascenso"
+      },
+      {
+        "name": "Copa Costa Rica"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Croatia",
+    "league": [
+      {
+        "name": "1. HNL"
+      },
+      {
+        "name": "2. HNL"
+      },
+      {
+        "name": "3. HNL"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "1. HNL Juniori"
+      },
+      {
+        "name": "First League Women"
+      }
+    ]
+  },
+  {
+    "country": "Cuba",
+    "league": [
+      {
+        "name": "Primera Division"
+      }
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "league": [
+      {
+        "name": "Curaçao Sekshon Pagá"
+      },
+      {
+        "name": "Kopa Antiano"
+      }
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "league": [
+      {
+        "name": "1. Division"
+      },
+      {
+        "name": "2. Division"
+      },
+      {
+        "name": "2. Division B2"
+      },
+      {
+        "name": "3. Division"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "U21 League"
+      },
+      {
+        "name": "U19 League"
+      },
+      {
+        "name": "First Division Women"
+      },
+      {
+        "name": "Women's Cup"
+      }
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "league": [
+      {
+        "name": "Czech Liga"
+      },
+      {
+        "name": "FNL"
+      },
+      {
+        "name": "Women's Cup"
+      },
+      {
+        "name": "Women's Play-offs 1/2"
+      },
+      {
+        "name": "Tipsport Liga"
+      },
+      {
+        "name": "3. liga"
+      },
+      {
+        "name": "4. liga"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Juniorská liga"
+      },
+      {
+        "name": "1. Liga U19"
+      },
+      {
+        "name": "1. Liga Women"
+      },
+      {
+        "name": "2. Liga Women"
+      }
+    ]
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "league": [
+      {
+        "name": "Ligue 1"
+      }
+    ]
+  },
+  {
+    "country": "Denmark",
+    "league": [
+      {
+        "name": "Superliga"
+      },
+      {
+        "name": "1st Division"
+      },
+      {
+        "name": "U19 Ligaen"
+      },
+      {
+        "name": "U17 Ligaen"
+      },
+      {
+        "name": "Elitedivisionen"
+      },
+      {
+        "name": "1st Division Women"
+      },
+      {
+        "name": "Women's Play-offs 1/2"
+      },
+      {
+        "name": "Women's Cup"
+      },
+      {
+        "name": "2nd Division"
+      },
+      {
+        "name": "Denmark Series"
+      },
+      {
+        "name": "DBU Pokalen"
+      },
+      {
+        "name": "Viasat Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Reserve League"
+      },
+      {
+        "name": "U21 Ligaen"
+      }
+    ]
+  },
+  {
+    "country": "Djibouti",
+    "league": [
+      {
+        "name": "Division 1"
+      }
+    ]
+  },
+  {
+    "country": "Dominican Republic",
+    "league": [
+      {
+        "name": "Liga Mayor"
+      }
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "league": [
+      {
+        "name": "Primera A"
+      },
+      {
+        "name": "Primera B"
+      },
+      {
+        "name": "Copa Sudamericana Play-off"
+      }
+    ]
+  },
+  {
+    "country": "Egypt",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "El Salvador",
+    "league": [
+      {
+        "name": "Primera Division"
+      },
+      {
+        "name": "Copa El Salvador"
+      }
+    ]
+  },
+  {
+    "country": "England",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "Championship"
+      },
+      {
+        "name": "Community Shield"
+      },
+      {
+        "name": "EFL Trophy"
+      },
+      {
+        "name": "FA Trophy"
+      },
+      {
+        "name": "FA Vase"
+      },
+      {
+        "name": "Alan Turvey Trophy"
+      },
+      {
+        "name": "Southern League Cup"
+      },
+      {
+        "name": "Northern Premier League Challenge Cup"
+      },
+      {
+        "name": "BBFA Senior Cup"
+      },
+      {
+        "name": "Bedfordshire Senior Challenge Cup"
+      },
+      {
+        "name": "Birmingham Senior Cup"
+      },
+      {
+        "name": "League One"
+      },
+      {
+        "name": "Cheshire Senior Cup"
+      },
+      {
+        "name": "Derbyshire Senior Cup"
+      },
+      {
+        "name": "Cumberland Senior Cup"
+      },
+      {
+        "name": "Durham County Challenge Cup"
+      },
+      {
+        "name": "Gloucester Senior Challenge Cup"
+      },
+      {
+        "name": "Essex Senior Cup"
+      },
+      {
+        "name": "Huntingdonshire Senior Cup"
+      },
+      {
+        "name": "East Riding Senior Cup"
+      },
+      {
+        "name": "Hertfordshire Senior Challenge Cup"
+      },
+      {
+        "name": "Kent Senior Cup"
+      },
+      {
+        "name": "League Two"
+      },
+      {
+        "name": "Lancashire FA Challenge Trophy"
+      },
+      {
+        "name": "Lancashire Senior Cup"
+      },
+      {
+        "name": "Liverpool Senior Cup"
+      },
+      {
+        "name": "Leicestershire and Rutland Challenge Cup"
+      },
+      {
+        "name": "London Senior Cup"
+      },
+      {
+        "name": "Manchester Premier Cup"
+      },
+      {
+        "name": "Manchester Senior Cup"
+      },
+      {
+        "name": "Norfolk Senior Cup"
+      },
+      {
+        "name": "North Riding Senior Cup"
+      },
+      {
+        "name": "Northamptonshire Senior Cup"
+      },
+      {
+        "name": "National League"
+      },
+      {
+        "name": "Northumberland Senior Cup"
+      },
+      {
+        "name": "Nottinghamshire Saturday Senior Cup"
+      },
+      {
+        "name": "Oxfordshire Senior Cup"
+      },
+      {
+        "name": "Staffordshire Senior Cup"
+      },
+      {
+        "name": "Sheffield and Hallamshire Senior Cup"
+      },
+      {
+        "name": "Somerset Premier Cup"
+      },
+      {
+        "name": "Suffolk FA Premier Cup"
+      },
+      {
+        "name": "Surrey Senior Cup"
+      },
+      {
+        "name": "Sussex Senior Challenge Cup"
+      },
+      {
+        "name": "West Riding County Cup"
+      },
+      {
+        "name": "National League N / S"
+      },
+      {
+        "name": "Central League"
+      },
+      {
+        "name": "Central League Cup"
+      },
+      {
+        "name": "Premier League 2 Division One"
+      },
+      {
+        "name": "Premier League 2 Division Two"
+      },
+      {
+        "name": "Professional Development League"
+      },
+      {
+        "name": "Premier League Cup"
+      },
+      {
+        "name": "U18 Premier League"
+      },
+      {
+        "name": "FA Youth Cup"
+      },
+      {
+        "name": "U18 Professional Development League"
+      },
+      {
+        "name": "U18 Premier League Cup"
+      },
+      {
+        "name": "Non League Premier"
+      },
+      {
+        "name": "Youth Alliance"
+      },
+      {
+        "name": "Youth Alliance Cup"
+      },
+      {
+        "name": "U16 Premier League Cup"
+      },
+      {
+        "name": "WSL"
+      },
+      {
+        "name": "WSL 2"
+      },
+      {
+        "name": "Premier League N / S Women"
+      },
+      {
+        "name": "Premier League Division One Women"
+      },
+      {
+        "name": "FA Women's Cup"
+      },
+      {
+        "name": "WSL Cup"
+      },
+      {
+        "name": "U21 Premier League Division 1"
+      },
+      {
+        "name": "Non League Div One"
+      },
+      {
+        "name": "U21 Premier League Division 2 "
+      },
+      {
+        "name": "Premier Reserve League"
+      },
+      {
+        "name": "Conference League Cup"
+      },
+      {
+        "name": "Women's Premier League"
+      },
+      {
+        "name": "Women's League Cup"
+      },
+      {
+        "name": "Women's Play-offs 3/4"
+      },
+      {
+        "name": "FA Cup"
+      },
+      {
+        "name": "League Cup"
+      }
+    ]
+  },
+  {
+    "country": "Estonia",
+    "league": [
+      {
+        "name": "Meistriliiga"
+      },
+      {
+        "name": "Esiliiga A"
+      },
+      {
+        "name": "Meistriliiga Women"
+      },
+      {
+        "name": "Esiliiga Women"
+      },
+      {
+        "name": "Women's Cup"
+      },
+      {
+        "name": "Super Cup Women"
+      },
+      {
+        "name": "Women's Play-offs 1/2"
+      },
+      {
+        "name": "Winter Tournament"
+      },
+      {
+        "name": "Esiliiga B"
+      },
+      {
+        "name": "II Liiga"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Play-offs 3/4"
+      },
+      {
+        "name": "U19 League"
+      }
+    ]
+  },
+  {
+    "country": "Ethiopia",
+    "league": [
+      {
+        "name": "Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Europe",
+    "league": [
+      {
+        "name": "Czechoslovak Super Cup"
+      },
+      {
+        "name": "FNL Cup"
+      },
+      {
+        "name": "BeNe League"
+      }
+    ]
+  },
+  {
+    "country": "FYR Macedonia",
+    "league": [
+      {
+        "name": "First League"
+      },
+      {
+        "name": "Second League"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Prva ŽFL"
+      }
+    ]
+  },
+  {
+    "country": "Faroe Islands",
+    "league": [
+      {
+        "name": "Meistaradeildin"
+      },
+      {
+        "name": "1. Deild"
+      },
+      {
+        "name": "2. Deild"
+      },
+      {
+        "name": "Løgmanssteypid"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "1. Deild Women"
+      },
+      {
+        "name": "Women's Cup"
+      }
+    ]
+  },
+  {
+    "country": "Fiji",
+    "league": [
+      {
+        "name": "National Football League"
+      },
+      {
+        "name": "Champion vs Champion"
+      }
+    ]
+  },
+  {
+    "country": "Finland",
+    "league": [
+      {
+        "name": "Veikkausliiga"
+      },
+      {
+        "name": "Ykkönen"
+      },
+      {
+        "name": "Ykkönen Women"
+      },
+      {
+        "name": "Women's Cup"
+      },
+      {
+        "name": "Liiga Cup Naiset"
+      },
+      {
+        "name": "Women's Play-offs 1/2"
+      },
+      {
+        "name": "Kakkonen"
+      },
+      {
+        "name": "Kolmonen"
+      },
+      {
+        "name": "Suomen Cup"
+      },
+      {
+        "name": "League Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "A-Junior League"
+      },
+      {
+        "name": "Naisten Liiga"
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "league": [
+      {
+        "name": "Ligue 1"
+      },
+      {
+        "name": "Ligue 2"
+      },
+      {
+        "name": "Championnat National U19"
+      },
+      {
+        "name": "Coupe Gambardella"
+      },
+      {
+        "name": "Feminine Division 1"
+      },
+      {
+        "name": "Feminine Division 2"
+      },
+      {
+        "name": "Feminine Division 3"
+      },
+      {
+        "name": "Coupe de France Féminine"
+      },
+      {
+        "name": "National 1"
+      },
+      {
+        "name": "National 2"
+      },
+      {
+        "name": "National 3"
+      },
+      {
+        "name": "Coupe de France"
+      },
+      {
+        "name": "Coupe de la Ligue"
+      },
+      {
+        "name": "Trophée des Champions"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      }
+    ]
+  },
+  {
+    "country": "French Guiana",
+    "league": [
+      {
+        "name": "Division d'Honneur"
+      }
+    ]
+  },
+  {
+    "country": "Gabon",
+    "league": [
+      {
+        "name": "Championnat D1"
+      }
+    ]
+  },
+  {
+    "country": "Gambia",
+    "league": [
+      {
+        "name": "GFA League"
+      }
+    ]
+  },
+  {
+    "country": "Georgia",
+    "league": [
+      {
+        "name": "Erovnuli Liga"
+      },
+      {
+        "name": "Erovnuli Liga 2"
+      },
+      {
+        "name": "Liga 3"
+      },
+      {
+        "name": "David Kipiani Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Reserve League"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "league": [
+      {
+        "name": "Bundesliga"
+      },
+      {
+        "name": "2. Bundesliga"
+      },
+      {
+        "name": "Reg. Cup Berlin"
+      },
+      {
+        "name": "Reg. Cup Brandenburg"
+      },
+      {
+        "name": "Reg. Cup Bremen"
+      },
+      {
+        "name": "Reg. Cup Hamburg"
+      },
+      {
+        "name": "Reg. Cup Hessen"
+      },
+      {
+        "name": "Reg. Cup Mecklenburg-Vorpommern"
+      },
+      {
+        "name": "Reg. Cup Mittelrhein"
+      },
+      {
+        "name": "Reg. Cup Niederrhein"
+      },
+      {
+        "name": "Reg. Cup Niedersachsen"
+      },
+      {
+        "name": "Reg. Cup Rheinland"
+      },
+      {
+        "name": "3. Liga"
+      },
+      {
+        "name": "Reg. Cup Saarland"
+      },
+      {
+        "name": "Reg. Cup Sachsen"
+      },
+      {
+        "name": "Reg. Cup Sachsen-Anhalt"
+      },
+      {
+        "name": "Reg. Cup Schleswig-Holstein"
+      },
+      {
+        "name": "Reg. Cup Südbaden"
+      },
+      {
+        "name": "Reg. Cup Südwest"
+      },
+      {
+        "name": "Reg. Cup Thüringen"
+      },
+      {
+        "name": "Reg. Cup Westfalen"
+      },
+      {
+        "name": "Reg. Cup Württemberg"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Regionalliga"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Play-offs 4/5"
+      },
+      {
+        "name": "U19 Bundesliga"
+      },
+      {
+        "name": "DFB Junioren Pokal"
+      },
+      {
+        "name": "Frauen Bundesliga"
+      },
+      {
+        "name": "2. Bundesliga Women"
+      },
+      {
+        "name": "Regionalliga Women"
+      },
+      {
+        "name": "DFB Pokal Women"
+      },
+      {
+        "name": "Women's Bundesliga Cup"
+      },
+      {
+        "name": "Oberliga"
+      },
+      {
+        "name": "DFB Pokal"
+      },
+      {
+        "name": "Liga Pokal"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Reg. Cup Baden"
+      },
+      {
+        "name": "Reg. Cup Bayern"
+      }
+    ]
+  },
+  {
+    "country": "Ghana",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Gibraltar",
+    "league": [
+      {
+        "name": "Premier Division"
+      },
+      {
+        "name": "Rock Cup"
+      },
+      {
+        "name": "League Cup"
+      }
+    ]
+  },
+  {
+    "country": "Greece",
+    "league": [
+      {
+        "name": "Super League"
+      },
+      {
+        "name": "Football League"
+      },
+      {
+        "name": "Gamma Ethniki"
+      },
+      {
+        "name": "Delta Ethniki"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Super League K20"
+      },
+      {
+        "name": "Panelinio Protathlima"
+      }
+    ]
+  },
+  {
+    "country": "Grenada",
+    "league": [
+      {
+        "name": "Premier Division"
+      }
+    ]
+  },
+  {
+    "country": "Guadeloupe",
+    "league": [
+      {
+        "name": "Division d'Honneur"
+      }
+    ]
+  },
+  {
+    "country": "Guam",
+    "league": [
+      {
+        "name": "Soccer League"
+      }
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "league": [
+      {
+        "name": "Liga Nacional"
+      },
+      {
+        "name": "Primera Division"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Guinea",
+    "league": [
+      {
+        "name": "Ligue 1"
+      }
+    ]
+  },
+  {
+    "country": "Guyana",
+    "league": [
+      {
+        "name": "GFF Elite League"
+      }
+    ]
+  },
+  {
+    "country": "Haiti",
+    "league": [
+      {
+        "name": "Ligue Haïtienne"
+      },
+      {
+        "name": "Super 8"
+      },
+      {
+        "name": "Trophée des Champions"
+      }
+    ]
+  },
+  {
+    "country": "Honduras",
+    "league": [
+      {
+        "name": "Liga Nacional"
+      },
+      {
+        "name": "Copa Presidente"
+      }
+    ]
+  },
+  {
+    "country": "Hong Kong",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "HKFA 1st Division"
+      },
+      {
+        "name": "FA Cup"
+      },
+      {
+        "name": "League Cup"
+      },
+      {
+        "name": "Community Cup"
+      },
+      {
+        "name": "Senior Shield"
+      },
+      {
+        "name": "Sapling Cup"
+      },
+      {
+        "name": "AFC Cup Play-off"
+      },
+      {
+        "name": "Reserve Division"
+      }
+    ]
+  },
+  {
+    "country": "Hungary",
+    "league": [
+      {
+        "name": "NB I"
+      },
+      {
+        "name": "NB II"
+      },
+      {
+        "name": "U18 League"
+      },
+      {
+        "name": "Nöi NB I"
+      },
+      {
+        "name": "Nöi NB II"
+      },
+      {
+        "name": "Nöi Magyar Kupa"
+      },
+      {
+        "name": "Women's Play-offs 1/2"
+      },
+      {
+        "name": "NB III"
+      },
+      {
+        "name": "Magyar Kupa"
+      },
+      {
+        "name": "League Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "U21 League"
+      },
+      {
+        "name": "U19 League"
+      }
+    ]
+  },
+  {
+    "country": "Iceland",
+    "league": [
+      {
+        "name": "Úrvalsdeild"
+      },
+      {
+        "name": "1. Deild"
+      },
+      {
+        "name": "Reykjavik Cup"
+      },
+      {
+        "name": "Fotbolti.net Cup A"
+      },
+      {
+        "name": "Fotbolti.net Cup B"
+      },
+      {
+        "name": "Northern Iceland Cup"
+      },
+      {
+        "name": "U19 League"
+      },
+      {
+        "name": "U19 Cup"
+      },
+      {
+        "name": "Reykjavik Youth Cup"
+      },
+      {
+        "name": "Úrvalsdeild Women"
+      },
+      {
+        "name": "1. Deild Women"
+      },
+      {
+        "name": "Women's Cup"
+      },
+      {
+        "name": "2. Deild"
+      },
+      {
+        "name": "Super Cup Women"
+      },
+      {
+        "name": "League Cup Women A"
+      },
+      {
+        "name": "League Cup Women B"
+      },
+      {
+        "name": "League Cup Women C"
+      },
+      {
+        "name": "Reykjavik Women Cup"
+      },
+      {
+        "name": "Faxafloi Women Cup"
+      },
+      {
+        "name": "3. Deild"
+      },
+      {
+        "name": "4. Deild"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "League Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "League Cup B"
+      },
+      {
+        "name": "League Cup C"
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "league": [
+      {
+        "name": "Indian Super League"
+      },
+      {
+        "name": "I-League"
+      },
+      {
+        "name": "U18 League"
+      },
+      {
+        "name": "I-League 2nd Division"
+      },
+      {
+        "name": "Calcutta Premier Division A"
+      },
+      {
+        "name": "Federation Cup"
+      },
+      {
+        "name": "IFA Shield"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Santosh Trophy"
+      },
+      {
+        "name": "Sikkim Governors Gold Cup"
+      },
+      {
+        "name": "U19 League"
+      }
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "league": [
+      {
+        "name": "Liga 1"
+      },
+      {
+        "name": "Liga 2"
+      },
+      {
+        "name": "Piala Presiden"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "ISC A"
+      },
+      {
+        "name": "ISC B"
+      },
+      {
+        "name": "IPL"
+      },
+      {
+        "name": "Piala Indonesia"
+      },
+      {
+        "name": "Championship Cup"
+      },
+      {
+        "name": "Inter Island Cup"
+      }
+    ]
+  },
+  {
+    "country": "Iran",
+    "league": [
+      {
+        "name": "Persian Gulf Pro League"
+      },
+      {
+        "name": "Azadegan League"
+      },
+      {
+        "name": "Hazfi Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Iraq",
+    "league": [
+      {
+        "name": "Iraqi League"
+      }
+    ]
+  },
+  {
+    "country": "Israel",
+    "league": [
+      {
+        "name": "Ligat ha'Al"
+      },
+      {
+        "name": "Liga Leumit"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Play-offs 3/4"
+      },
+      {
+        "name": "U19 Elite Division"
+      },
+      {
+        "name": "U19 Cup"
+      },
+      {
+        "name": "Ligat Al Women"
+      },
+      {
+        "name": "State Cup Women"
+      },
+      {
+        "name": "Liga Alef"
+      },
+      {
+        "name": "Liga Bet"
+      },
+      {
+        "name": "State Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Toto Cup Ligat Al"
+      },
+      {
+        "name": "Toto Cup Ligat Leumit"
+      },
+      {
+        "name": "Toto Cup Ligat Artzit"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Italy",
+    "league": [
+      {
+        "name": "Serie A"
+      },
+      {
+        "name": "Serie B"
+      },
+      {
+        "name": "Coppa Italia Primavera"
+      },
+      {
+        "name": "Super Cup Primavera"
+      },
+      {
+        "name": "Dante Berretti"
+      },
+      {
+        "name": "Serie A Women"
+      },
+      {
+        "name": "Serie B Women"
+      },
+      {
+        "name": "Coppa Italia Women"
+      },
+      {
+        "name": "Women's Play-offs 1/2"
+      },
+      {
+        "name": "Lega Pro 2"
+      },
+      {
+        "name": "Super Cup Women"
+      },
+      {
+        "name": "Serie C"
+      },
+      {
+        "name": "Serie D"
+      },
+      {
+        "name": "Coppa Italia"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Coppa Italia Serie C"
+      },
+      {
+        "name": "Coppa Italia Serie D"
+      },
+      {
+        "name": "Campionato Primavera 1"
+      },
+      {
+        "name": "Campionato Primavera 2"
+      }
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "JFF Champions Cup"
+      }
+    ]
+  },
+  {
+    "country": "Japan",
+    "league": [
+      {
+        "name": "J1 League"
+      },
+      {
+        "name": "J2 League"
+      },
+      {
+        "name": "Nadeshiko League 2"
+      },
+      {
+        "name": "Nadeshiko League Cup 1"
+      },
+      {
+        "name": "Nadeshiko League Cup 2"
+      },
+      {
+        "name": "Women's Play-offs 1/2"
+      },
+      {
+        "name": "New Year Cup"
+      },
+      {
+        "name": "J3 League"
+      },
+      {
+        "name": "Japan Football League"
+      },
+      {
+        "name": "Emperor Cup"
+      },
+      {
+        "name": "J-League Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "J Youth Cup"
+      },
+      {
+        "name": "Nadeshiko League 1"
+      }
+    ]
+  },
+  {
+    "country": "Jordan",
+    "league": [
+      {
+        "name": "League"
+      },
+      {
+        "name": "1st Division"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Shield Cup"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Kazakhstan",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "1. Division"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Women's Football Championship"
+      }
+    ]
+  },
+  {
+    "country": "Kenya",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "Super League"
+      },
+      {
+        "name": "Shield Cup"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Korea Republic",
+    "league": [
+      {
+        "name": "K League 1"
+      },
+      {
+        "name": "K League 2"
+      },
+      {
+        "name": "National League"
+      },
+      {
+        "name": "K3 League Advanced"
+      },
+      {
+        "name": "FA Cup"
+      },
+      {
+        "name": "K League Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "WK-League"
+      }
+    ]
+  },
+  {
+    "country": "Kosovo",
+    "league": [
+      {
+        "name": "Superliga"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Liga e Femrave"
+      }
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "Division 1"
+      },
+      {
+        "name": "Federation Cup"
+      },
+      {
+        "name": "Crown Prince Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Emir Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Kyrgyzstan",
+    "league": [
+      {
+        "name": "Top Liga"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Laos",
+    "league": [
+      {
+        "name": "Lao League"
+      }
+    ]
+  },
+  {
+    "country": "Latvia",
+    "league": [
+      {
+        "name": "Virsliga"
+      },
+      {
+        "name": "1. Liga"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Women League"
+      }
+    ]
+  },
+  {
+    "country": "Lebanon",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Elite Cup"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Lesotho",
+    "league": [
+      {
+        "name": "Lesotho Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Liberia",
+    "league": [
+      {
+        "name": "LFA First Division"
+      }
+    ]
+  },
+  {
+    "country": "Libya",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Liechtenstein",
+    "league": [
+      {
+        "name": "FL1 Active Cup"
+      }
+    ]
+  },
+  {
+    "country": "Lithuania",
+    "league": [
+      {
+        "name": "A Lyga"
+      },
+      {
+        "name": "1 Lyga"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Reserve League"
+      },
+      {
+        "name": "A Lyga Women"
+      }
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "league": [
+      {
+        "name": "National Division"
+      },
+      {
+        "name": "Promotion d'Honneur"
+      },
+      {
+        "name": "1. Division"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Ligue 1 Women"
+      },
+      {
+        "name": "Women's Cup"
+      }
+    ]
+  },
+  {
+    "country": "Macao",
+    "league": [
+      {
+        "name": "Primeira Divisão"
+      }
+    ]
+  },
+  {
+    "country": "Madagascar",
+    "league": [
+      {
+        "name": "Ligue des Champions"
+      }
+    ]
+  },
+  {
+    "country": "Malawi",
+    "league": [
+      {
+        "name": "Super League"
+      }
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "league": [
+      {
+        "name": "Super League"
+      },
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "FAM League"
+      },
+      {
+        "name": "FA Cup"
+      },
+      {
+        "name": "Malaysia Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      }
+    ]
+  },
+  {
+    "country": "Maldives",
+    "league": [
+      {
+        "name": "Dhivehi Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Mali",
+    "league": [
+      {
+        "name": "Première Division"
+      }
+    ]
+  },
+  {
+    "country": "Malta",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "First Division"
+      },
+      {
+        "name": "Second Division Women"
+      },
+      {
+        "name": "Women's Play-offs 1/2"
+      },
+      {
+        "name": "Second Division"
+      },
+      {
+        "name": "Gozo First Division"
+      },
+      {
+        "name": "FA Trophy"
+      },
+      {
+        "name": "Summer Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "First Division Women"
+      }
+    ]
+  },
+  {
+    "country": "Martinique",
+    "league": [
+      {
+        "name": "Division d'Honneur"
+      }
+    ]
+  },
+  {
+    "country": "Mauritania",
+    "league": [
+      {
+        "name": "Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Mauritius",
+    "league": [
+      {
+        "name": "Mauritian League"
+      }
+    ]
+  },
+  {
+    "country": "Mexico",
+    "league": [
+      {
+        "name": "Liga MX"
+      },
+      {
+        "name": "Ascenso MX"
+      },
+      {
+        "name": "Interliga"
+      },
+      {
+        "name": "Liga Premier"
+      },
+      {
+        "name": "Copa MX"
+      },
+      {
+        "name": "Campeón de Campeones"
+      },
+      {
+        "name": "Supercopa MX"
+      },
+      {
+        "name": "U20 League"
+      },
+      {
+        "name": "U17 League"
+      },
+      {
+        "name": "Liga MX Femenil"
+      },
+      {
+        "name": "Pre-Libertadores"
+      }
+    ]
+  },
+  {
+    "country": "Moldova",
+    "league": [
+      {
+        "name": "Divizia Națională"
+      },
+      {
+        "name": "Divizia A"
+      },
+      {
+        "name": "Divizia B"
+      },
+      {
+        "name": "Cupa"
+      },
+      {
+        "name": "Supercupa"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Campionatul Moldovei"
+      }
+    ]
+  },
+  {
+    "country": "Mongolia",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Montenegro",
+    "league": [
+      {
+        "name": "First League"
+      },
+      {
+        "name": "Second League"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "1. ŽFL"
+      }
+    ]
+  },
+  {
+    "country": "Morocco",
+    "league": [
+      {
+        "name": "Botola Pro"
+      },
+      {
+        "name": "Botola 2"
+      },
+      {
+        "name": "Cup"
+      }
+    ]
+  },
+  {
+    "country": "Mozambique",
+    "league": [
+      {
+        "name": "Moçambola"
+      }
+    ]
+  },
+  {
+    "country": "Myanmar",
+    "league": [
+      {
+        "name": "National League"
+      }
+    ]
+  },
+  {
+    "country": "Namibia",
+    "league": [
+      {
+        "name": "Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Nepal",
+    "league": [
+      {
+        "name": "A Division"
+      },
+      {
+        "name": "National League"
+      }
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "league": [
+      {
+        "name": "Eredivisie"
+      },
+      {
+        "name": "Eerste Divisie"
+      },
+      {
+        "name": "Play-offs 4/5"
+      },
+      {
+        "name": "Play-offs 5/6"
+      },
+      {
+        "name": "Reserve League"
+      },
+      {
+        "name": "Eredivisie U19"
+      },
+      {
+        "name": "Youth Cup U19"
+      },
+      {
+        "name": "Eredivisie Women"
+      },
+      {
+        "name": "Topklasse Women"
+      },
+      {
+        "name": "Hoofdklasse Women"
+      },
+      {
+        "name": "Eerste Klasse Women"
+      },
+      {
+        "name": "Women's Cup"
+      },
+      {
+        "name": "Tweede Divisie"
+      },
+      {
+        "name": "Super Cup Women"
+      },
+      {
+        "name": "Women's Play-offs 2/3"
+      },
+      {
+        "name": "Women's Play-offs 3/4"
+      },
+      {
+        "name": "Beloften"
+      },
+      {
+        "name": "Derde Divisie"
+      },
+      {
+        "name": "Hoofdklasse"
+      },
+      {
+        "name": "Eerste Klasse"
+      },
+      {
+        "name": "KNVB Beker"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 3/4"
+      }
+    ]
+  },
+  {
+    "country": "New Caledonia",
+    "league": [
+      {
+        "name": "Super Ligue"
+      }
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "league": [
+      {
+        "name": "Premiership"
+      },
+      {
+        "name": "Regional Leagues"
+      },
+      {
+        "name": "Chatham Cup"
+      },
+      {
+        "name": "ASB Youth League"
+      },
+      {
+        "name": "National Women's League"
+      },
+      {
+        "name": "NZF Cup"
+      }
+    ]
+  },
+  {
+    "country": "Nicaragua",
+    "league": [
+      {
+        "name": "Primera Division"
+      }
+    ]
+  },
+  {
+    "country": "Niger",
+    "league": [
+      {
+        "name": "Ligue 1"
+      }
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "league": [
+      {
+        "name": "NPFL"
+      }
+    ]
+  },
+  {
+    "country": "Northern Ireland",
+    "league": [
+      {
+        "name": "Premiership"
+      },
+      {
+        "name": "Championship"
+      },
+      {
+        "name": "Premiership Women"
+      },
+      {
+        "name": "Championship Women"
+      },
+      {
+        "name": "FA Women's Cup"
+      },
+      {
+        "name": "Women's Play-offs 1/2"
+      },
+      {
+        "name": "NIFL Reserve League"
+      },
+      {
+        "name": "Premier Intermediate League"
+      },
+      {
+        "name": "Premiership Development League"
+      },
+      {
+        "name": "Irish Cup"
+      },
+      {
+        "name": "League Cup"
+      },
+      {
+        "name": "Charity Shield"
+      },
+      {
+        "name": "County Antrim Shield"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      }
+    ]
+  },
+  {
+    "country": "Norway",
+    "league": [
+      {
+        "name": "Eliteserien"
+      },
+      {
+        "name": "1. Division"
+      },
+      {
+        "name": "NM Cupen Women"
+      },
+      {
+        "name": "Women's Play-offs 1/2"
+      },
+      {
+        "name": "2. Division"
+      },
+      {
+        "name": "3. Division"
+      },
+      {
+        "name": "NM Cupen"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Toppserien"
+      },
+      {
+        "name": "1. Division Women"
+      }
+    ]
+  },
+  {
+    "country": "Oman",
+    "league": [
+      {
+        "name": "Professional League"
+      },
+      {
+        "name": "Sultan Cup"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "2nd Division"
+      }
+    ]
+  },
+  {
+    "country": "Palestine",
+    "league": [
+      {
+        "name": "West Bank League"
+      },
+      {
+        "name": "Cup"
+      }
+    ]
+  },
+  {
+    "country": "Panama",
+    "league": [
+      {
+        "name": "LPF"
+      },
+      {
+        "name": "Liga Nacional de Ascenso"
+      },
+      {
+        "name": "Copa Panama"
+      }
+    ]
+  },
+  {
+    "country": "Papua New Guinea",
+    "league": [
+      {
+        "name": "National Soccer League"
+      }
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "league": [
+      {
+        "name": "Division Profesional"
+      },
+      {
+        "name": "Division Intermedia"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Peru",
+    "league": [
+      {
+        "name": "Primera División"
+      },
+      {
+        "name": "Segunda División"
+      },
+      {
+        "name": "Copa Perú"
+      },
+      {
+        "name": "Copa Inca"
+      }
+    ]
+  },
+  {
+    "country": "Philippines",
+    "league": [
+      {
+        "name": "PFL"
+      },
+      {
+        "name": "UFL"
+      },
+      {
+        "name": "UFL Cup"
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "league": [
+      {
+        "name": "Ekstraklasa"
+      },
+      {
+        "name": "I Liga"
+      },
+      {
+        "name": "Ekstraliga Women"
+      },
+      {
+        "name": "I Liga Women"
+      },
+      {
+        "name": "Women's Cup"
+      },
+      {
+        "name": "Women's Play-offs 1/2"
+      },
+      {
+        "name": "Mloda Ekstraklasa"
+      },
+      {
+        "name": "II Liga"
+      },
+      {
+        "name": "III Liga"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "League Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Central Youth League"
+      }
+    ]
+  },
+  {
+    "country": "Portugal",
+    "league": [
+      {
+        "name": "Primeira Liga"
+      },
+      {
+        "name": "Segunda Liga"
+      },
+      {
+        "name": "Júniores U17"
+      },
+      {
+        "name": "1a Divisão Women"
+      },
+      {
+        "name": "Super Cup Women"
+      },
+      {
+        "name": "Campeonato de Portugal Prio"
+      },
+      {
+        "name": "III Divisão"
+      },
+      {
+        "name": "Taça de Portugal"
+      },
+      {
+        "name": "Taça da Liga"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Júniores U19"
+      }
+    ]
+  },
+  {
+    "country": "Puerto Rico",
+    "league": [
+      {
+        "name": "LNFPR First Division"
+      },
+      {
+        "name": "Puerto Rico Soccer League"
+      }
+    ]
+  },
+  {
+    "country": "Qatar",
+    "league": [
+      {
+        "name": "Stars League"
+      },
+      {
+        "name": "Second Division"
+      },
+      {
+        "name": "QSL Cup"
+      },
+      {
+        "name": "Emir Cup"
+      },
+      {
+        "name": "Crown Prince Cup"
+      },
+      {
+        "name": "Sheikh Jassem Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "U23 League"
+      }
+    ]
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": [
+      {
+        "name": "Premier Division"
+      },
+      {
+        "name": "First Division"
+      },
+      {
+        "name": "Women's National League "
+      },
+      {
+        "name": "Women's League Cup"
+      },
+      {
+        "name": "A Championship"
+      },
+      {
+        "name": "FAI Cup"
+      },
+      {
+        "name": "League Cup"
+      },
+      {
+        "name": "FAI President's Cup"
+      },
+      {
+        "name": "Leinster Senior Cup"
+      },
+      {
+        "name": "Munster Senior Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      }
+    ]
+  },
+  {
+    "country": "Romania",
+    "league": [
+      {
+        "name": "Liga I"
+      },
+      {
+        "name": "Liga II"
+      },
+      {
+        "name": "Liga III"
+      },
+      {
+        "name": "Cupa României"
+      },
+      {
+        "name": "Cupa Ligii"
+      },
+      {
+        "name": "Supercupa"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Superliga"
+      },
+      {
+        "name": "Cupa României Feminin"
+      }
+    ]
+  },
+  {
+    "country": "Russia",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "FNL"
+      },
+      {
+        "name": "PFL Cup - 2. Division"
+      },
+      {
+        "name": "1. Division Women"
+      },
+      {
+        "name": "PFL"
+      },
+      {
+        "name": "III Division"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "U21 Premier League"
+      },
+      {
+        "name": "Supreme Division Women"
+      },
+      {
+        "name": "Womens Cup"
+      }
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "league": [
+      {
+        "name": "National Soccer League"
+      }
+    ]
+  },
+  {
+    "country": "Réunion",
+    "league": [
+      {
+        "name": "Regionale 1"
+      }
+    ]
+  },
+  {
+    "country": "Samoa",
+    "league": [
+      {
+        "name": "National League"
+      }
+    ]
+  },
+  {
+    "country": "San Marino",
+    "league": [
+      {
+        "name": "Campionato"
+      },
+      {
+        "name": "Coppa Titano"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": [
+      {
+        "name": "Pro League"
+      },
+      {
+        "name": "Division 1"
+      },
+      {
+        "name": "Division 2"
+      },
+      {
+        "name": "King's Cup"
+      },
+      {
+        "name": "Crown Prince Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Youth League"
+      },
+      {
+        "name": "Crown Prince Cup (defunct)"
+      }
+    ]
+  },
+  {
+    "country": "Scotland",
+    "league": [
+      {
+        "name": "Premiership"
+      },
+      {
+        "name": "Championship"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Play-offs 3/4"
+      },
+      {
+        "name": "Play-offs 4/5"
+      },
+      {
+        "name": "SPFL Reserve League"
+      },
+      {
+        "name": "Development League"
+      },
+      {
+        "name": "Development League 2"
+      },
+      {
+        "name": "SWPL 1"
+      },
+      {
+        "name": "SWPL 2"
+      },
+      {
+        "name": "SWFL 1"
+      },
+      {
+        "name": "SWFL 2"
+      },
+      {
+        "name": "League One"
+      },
+      {
+        "name": "SWF Scottish Cup"
+      },
+      {
+        "name": "SWPL Cup"
+      },
+      {
+        "name": "SPL U20"
+      },
+      {
+        "name": "SPFL Reserve League Cup"
+      },
+      {
+        "name": "East of Scotland"
+      },
+      {
+        "name": "Highland League"
+      },
+      {
+        "name": "League Two"
+      },
+      {
+        "name": "Football League"
+      },
+      {
+        "name": "Feeder Leagues"
+      },
+      {
+        "name": "FA Cup"
+      },
+      {
+        "name": "League Cup"
+      },
+      {
+        "name": "Challenge Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Senegal",
+    "league": [
+      {
+        "name": "Ligue 1"
+      }
+    ]
+  },
+  {
+    "country": "Serbia and Montenegro",
+    "league": [
+      {
+        "name": "Prva Liga"
+      },
+      {
+        "name": "Druga Liga"
+      },
+      {
+        "name": "Treca Liga"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "First Division Women"
+      }
+    ]
+  },
+  {
+    "country": "Serbia",
+    "league": [
+      {
+        "name": "Super Liga"
+      },
+      {
+        "name": "Prva Liga"
+      },
+      {
+        "name": "Srpska Liga"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Super Liga Žene"
+      }
+    ]
+  },
+  {
+    "country": "Sierra Leone",
+    "league": [
+      {
+        "name": "Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Singapore",
+    "league": [
+      {
+        "name": "S.League"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "League Cup"
+      },
+      {
+        "name": "Reserve Prime League"
+      }
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "league": [
+      {
+        "name": "Super Liga"
+      },
+      {
+        "name": "2. liga"
+      },
+      {
+        "name": "3. liga"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "U19 League"
+      },
+      {
+        "name": "I Liga Women"
+      }
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "league": [
+      {
+        "name": "1. SNL"
+      },
+      {
+        "name": "2. SNL"
+      },
+      {
+        "name": "3. SNL"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "1. Zenska Liga"
+      },
+      {
+        "name": "Women's Cup"
+      }
+    ]
+  },
+  {
+    "country": "Solomon Islands",
+    "league": [
+      {
+        "name": "S-League"
+      }
+    ]
+  },
+  {
+    "country": "Somalia",
+    "league": [
+      {
+        "name": "First Division"
+      }
+    ]
+  },
+  {
+    "country": "South Africa",
+    "league": [
+      {
+        "name": "PSL"
+      },
+      {
+        "name": "1st Division"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "League Cup"
+      },
+      {
+        "name": "8 Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Spain",
+    "league": [
+      {
+        "name": "La Liga"
+      },
+      {
+        "name": "Segunda División"
+      },
+      {
+        "name": "Copa del Rey Juvenil"
+      },
+      {
+        "name": "Primera División Femenina"
+      },
+      {
+        "name": "1ª Nacional Women"
+      },
+      {
+        "name": "Copa de la Reina"
+      },
+      {
+        "name": "Segunda B"
+      },
+      {
+        "name": "Tercera Division"
+      },
+      {
+        "name": "Copa del Rey"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Copa Federacion"
+      },
+      {
+        "name": "Copa Catalunya"
+      },
+      {
+        "name": "Supercopa de Catalunya"
+      },
+      {
+        "name": "División de Honor Juvenil"
+      }
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "league": [
+      {
+        "name": "Champions League"
+      }
+    ]
+  },
+  {
+    "country": "St. Kitts and Nevis",
+    "league": [
+      {
+        "name": "Premier Division"
+      }
+    ]
+  },
+  {
+    "country": "Sudan",
+    "league": [
+      {
+        "name": "Sudani Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Suriname",
+    "league": [
+      {
+        "name": "Eerste Divisie"
+      },
+      {
+        "name": "Tweede Divisie"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Swaziland",
+    "league": [
+      {
+        "name": "Premier League"
+      }
+    ]
+  },
+  {
+    "country": "Sweden",
+    "league": [
+      {
+        "name": "Allsvenskan"
+      },
+      {
+        "name": "Superettan"
+      },
+      {
+        "name": "Damallsvenskan"
+      },
+      {
+        "name": "Elitettan"
+      },
+      {
+        "name": "Svenska Cupen Women"
+      },
+      {
+        "name": "Super Cup Women"
+      },
+      {
+        "name": "Division 1"
+      },
+      {
+        "name": "Division 2"
+      },
+      {
+        "name": "Svenska Cupen"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "U21 League"
+      },
+      {
+        "name": "U19 League"
+      }
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "league": [
+      {
+        "name": "Super League"
+      },
+      {
+        "name": "Challenge League"
+      },
+      {
+        "name": "Schweizer Pokal Frauen"
+      },
+      {
+        "name": "Women's Play-offs 1/2"
+      },
+      {
+        "name": "1. Liga Promotion"
+      },
+      {
+        "name": "1. Liga Classic"
+      },
+      {
+        "name": "2. Liga Interregional"
+      },
+      {
+        "name": "Schweizer Pokal"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "U18 League"
+      },
+      {
+        "name": "Nationalliga A Women"
+      },
+      {
+        "name": "Nationalliga B Women"
+      }
+    ]
+  },
+  {
+    "country": "Syria",
+    "league": [
+      {
+        "name": "Premier League"
+      }
+    ]
+  },
+  {
+    "country": "São Tomé e Príncipe",
+    "league": [
+      {
+        "name": "Campeonato Nacional"
+      }
+    ]
+  },
+  {
+    "country": "Tahiti",
+    "league": [
+      {
+        "name": "Ligue 1"
+      }
+    ]
+  },
+  {
+    "country": "Tajikistan",
+    "league": [
+      {
+        "name": "Vysshaya Liga"
+      }
+    ]
+  },
+  {
+    "country": "Tanzania",
+    "league": [
+      {
+        "name": "Ligi kuu Bara"
+      }
+    ]
+  },
+  {
+    "country": "Thailand",
+    "league": [
+      {
+        "name": "Thai League 1"
+      },
+      {
+        "name": "Thai League 2"
+      },
+      {
+        "name": "Thai League 3"
+      },
+      {
+        "name": "Thai League 4"
+      },
+      {
+        "name": "FA Cup"
+      },
+      {
+        "name": "League Cup"
+      }
+    ]
+  },
+  {
+    "country": "Togo",
+    "league": [
+      {
+        "name": "Championnat National"
+      }
+    ]
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "league": [
+      {
+        "name": "T & T Pro League"
+      },
+      {
+        "name": "Pro Bowl"
+      }
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "league": [
+      {
+        "name": "Ligue 1"
+      },
+      {
+        "name": "Ligue 2"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Turkey",
+    "league": [
+      {
+        "name": "Süper Lig"
+      },
+      {
+        "name": "1. Lig"
+      },
+      {
+        "name": "U21 Super Cup"
+      },
+      {
+        "name": "U19 Süper Lig"
+      },
+      {
+        "name": "U19 1. Lig"
+      },
+      {
+        "name": "U19 Super Cup"
+      },
+      {
+        "name": "U18 Elit Ligi"
+      },
+      {
+        "name": "Bayanlar Ligi Women"
+      },
+      {
+        "name": "Kadinlar 2. Ligi "
+      },
+      {
+        "name": "Milli Küme"
+      },
+      {
+        "name": "Mahallî Ligi"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "2. Lig"
+      },
+      {
+        "name": "Regional Leagues"
+      },
+      {
+        "name": "Regional Leagues 2. Lig"
+      },
+      {
+        "name": "2. Lig Promotion"
+      },
+      {
+        "name": "3. Lig Promotion"
+      },
+      {
+        "name": "A2 Ligi (Reserve)"
+      },
+      {
+        "name": "Akademi Ligleri"
+      },
+      {
+        "name": "Kadinlar 3. Ligi"
+      },
+      {
+        "name": "Atatürk Cup"
+      },
+      {
+        "name": "Deprem Cup"
+      },
+      {
+        "name": "Federation Cup"
+      },
+      {
+        "name": "3. Lig"
+      },
+      {
+        "name": "Cemal Gürsel Cup"
+      },
+      {
+        "name": "Donanma Cup"
+      },
+      {
+        "name": "TSYD Cup"
+      },
+      {
+        "name": "Chancellor Cup"
+      },
+      {
+        "name": "Youth & Sports Ministry Cup"
+      },
+      {
+        "name": "50 Year Cup"
+      },
+      {
+        "name": "Bölgesel Amatör Lig"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Spor Toto Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "U21 Süper Lig"
+      },
+      {
+        "name": "U21 1. Lig"
+      }
+    ]
+  },
+  {
+    "country": "Turkmenistan",
+    "league": [
+      {
+        "name": "Ýokary Liga"
+      }
+    ]
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "league": [
+      {
+        "name": "Premier League"
+      }
+    ]
+  },
+  {
+    "country": "USA",
+    "league": [
+      {
+        "name": "MLS"
+      },
+      {
+        "name": "NASL"
+      },
+      {
+        "name": "USL 2"
+      },
+      {
+        "name": "USSF Division 2"
+      },
+      {
+        "name": "WPS"
+      },
+      {
+        "name": "USL"
+      },
+      {
+        "name": "PDL"
+      },
+      {
+        "name": "US Open Cup"
+      },
+      {
+        "name": "NWSL"
+      },
+      {
+        "name": "W-League"
+      },
+      {
+        "name": "Suncoast Invitational"
+      },
+      {
+        "name": "MLS Combine"
+      },
+      {
+        "name": "Carolina Challenge Cup"
+      }
+    ]
+  },
+  {
+    "country": "Uganda",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "Super League"
+      }
+    ]
+  },
+  {
+    "country": "Ukraine",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "Persha Liga"
+      },
+      {
+        "name": "Women's Cup"
+      },
+      {
+        "name": "Druha Liga"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "U21 League"
+      },
+      {
+        "name": "U19 League"
+      },
+      {
+        "name": "Premier League Women"
+      }
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "league": [
+      {
+        "name": "Arabian Gulf League"
+      },
+      {
+        "name": "Division 1"
+      },
+      {
+        "name": "U19 League"
+      },
+      {
+        "name": "U18 League"
+      },
+      {
+        "name": "Division 1 - Group B"
+      },
+      {
+        "name": "FA Cup"
+      },
+      {
+        "name": "League Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Presidents Cup"
+      },
+      {
+        "name": "Vice President Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Arabian Gulf Reserve League"
+      },
+      {
+        "name": "Youth League"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "league": [
+      {
+        "name": "Primera División"
+      },
+      {
+        "name": "Segunda División"
+      },
+      {
+        "name": "Segunda B Nacional"
+      },
+      {
+        "name": "Super Copa"
+      },
+      {
+        "name": "Campeonato Femenino"
+      }
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "league": [
+      {
+        "name": "Super League"
+      },
+      {
+        "name": "Pro League"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "PFL Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Vanuatu",
+    "league": [
+      {
+        "name": "Premia Divisen"
+      }
+    ]
+  },
+  {
+    "country": "Venezuela",
+    "league": [
+      {
+        "name": "Primera División"
+      },
+      {
+        "name": "Segunda División"
+      },
+      {
+        "name": "Copa Venezuela"
+      },
+      {
+        "name": "Copa Bicentenaria"
+      },
+      {
+        "name": "Play-offs 1/2"
+      }
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "league": [
+      {
+        "name": "V.League 1"
+      },
+      {
+        "name": "V.League 2"
+      },
+      {
+        "name": "Second Division"
+      },
+      {
+        "name": "Cup"
+      },
+      {
+        "name": "Super Cup"
+      },
+      {
+        "name": "Play-offs 1/2"
+      },
+      {
+        "name": "Play-offs 2/3"
+      },
+      {
+        "name": "U21 Championship"
+      },
+      {
+        "name": "U19 Championship"
+      },
+      {
+        "name": "Women's National League"
+      }
+    ]
+  },
+  {
+    "country": "Wales",
+    "league": [
+      {
+        "name": "Premier League"
+      },
+      {
+        "name": "Feeder Leagues"
+      },
+      {
+        "name": "Welsh Cup"
+      },
+      {
+        "name": "League Cup"
+      },
+      {
+        "name": "Welsh Premier Women's League"
+      }
+    ]
+  },
+  {
+    "country": "World",
+    "league": [
+      {
+        "name": "Other Competition Matches"
+      },
+      {
+        "name": "MLS All-Star"
+      },
+      {
+        "name": "Trofeo Joan Gamper"
+      },
+      {
+        "name": "Other Competition Matches Youth"
+      },
+      {
+        "name": "Other Competition Matches Women"
+      }
+    ]
+  },
+  {
+    "country": "Yemen",
+    "league": [
+      {
+        "name": "Yemeni League"
+      },
+      {
+        "name": "President Cup"
+      },
+      {
+        "name": "Super Cup"
+      }
+    ]
+  },
+  {
+    "country": "Zambia",
+    "league": [
+      {
+        "name": "Super League"
+      }
+    ]
+  },
+  {
+    "country": "Zimbabwe",
+    "league": [
+      {
+        "name": "Premier Soccer League"
+      }
+    ]
+  }
+]
