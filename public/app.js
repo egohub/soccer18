@@ -58,14 +58,14 @@ $urlRouterProvider.otherwise('/tab/dash');  $ionicConfigProvider.platform.androi
 
 //https://raw.githubusercontent.com/egohub/repo/master/livescore.json
 .factory('rawApi', function($http){
-  var url = 'https://raw.githubusercontent.com/egohub/repo/master/livescore.json';
+  var url = 'https://soccer18.herokuapp.com/live';
   return {
     all:function () {
       return $http.get(live);
     },
     
     detail : function (id) {
-      return $http.get('http://localhost:3000/leagues/'+id)
+      return $http.get('https://soccer18.herokuapp.com/event/'+id)
     }
   };
 })
