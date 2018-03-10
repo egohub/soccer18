@@ -1,3 +1,5 @@
+
+var live = 'process.env.Api_URL';
 angular.module('starter', ['ionic'])
 
 .config(function($stateProvider, $urlRouterProvider, $ionicConfigProvider) {
@@ -59,7 +61,7 @@ $urlRouterProvider.otherwise('/tab/dash');  $ionicConfigProvider.platform.androi
   var url = 'https://raw.githubusercontent.com/egohub/repo/master/livescore.json';
   return {
     all:function () {
-      return $http.get(url);
+      return $http.get(live);
     },
     
     detail : function (id) {
