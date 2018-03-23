@@ -98,11 +98,11 @@
           <!-- Tab 2 content -->
           <ion-content class="padding">
             
-            <div class="card" ng-repeat="m in  matches | filter:'inprogress' ">
+            <div class="card" ng-repeat="m in lives">
               <div class="item item-divider item-balanced">
                 {{m.tournament.name}}
               </div>
-              <div class="row  item item-text-wrap" ng-repeat="n in  m.events| filter: 'inprogress' ">
+              <div class="row  item item-text-wrap" ng-repeat="n in  m.events">
                 <div class="col col-10">{{n.statusDescription }}
 </div>
                 <div class="col col-35 home">{{n.homeTeam.name}}</div>

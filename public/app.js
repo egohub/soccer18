@@ -1,4 +1,21 @@
 
+var today = new Date();
+var dd = today.getDate();
+var mm = today.getMonth()+1; //January is 0!
+var yyyy = today.getFullYear();
+
+if(dd<10) {
+    dd = '0'+dd
+} 
+
+if(mm<10) {
+    mm = '0'+mm
+} 
+
+today = yyyy + '-' + mm + '-' + dd;
+
+
+
 var live = 'process.env.Api_URL';
 angular.module('starter', ['ionic'])
 
@@ -47,9 +64,13 @@ $urlRouterProvider.otherwise('/tab/dash');  $ionicConfigProvider.platform.androi
 
 .controller('AppCtrl', function($scope) {})
 .controller('DashCtrl', function($scope, rawApi) {
-  rawApi.all().then(function (resp) {
+  rawApi.today().then(function (resp) {
       console.log(resp);
       $scope.matches = resp.data.sportItem.tournaments;
+    });
+  rawApi.all().then(function (resp) {
+      console.log(resp);
+      $scope.lives = resp.data.sportItem.tournaments;
     });
 })
 
@@ -61,9 +82,11 @@ $urlRouterProvider.otherwise('/tab/dash');  $ionicConfigProvider.platform.androi
   var url = 'https://soccer18.herokuapp.com/live';
   return {
     all:function () {
-      return $http.get(live);
+      return $http.get(url);
     },
-    
+    today: function(){
+       return $http.get('https://www.sofascore.com/football//'+today+'/json');
+    },
     detail : function (id) {
       return $http.get('https://soccer18.herokuapp.com/event/'+id)
     }
