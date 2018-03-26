@@ -17,6 +17,7 @@ today = yyyy + '-' + mm + '-' + dd;
 
 
 var live = 'process.env.Api_URL';
+console.log(live);
 angular.module('starter', ['ionic'])
 
 .config(function($stateProvider, $urlRouterProvider, $ionicConfigProvider) {
