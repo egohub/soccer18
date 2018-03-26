@@ -83,7 +83,7 @@ $urlRouterProvider.otherwise('/tab/dash');  $ionicConfigProvider.platform.androi
   var url = 'https://soccer18.herokuapp.com/live';
   return {
     all:function () {
-      return $http.get(url);
+      return $http.get(live);
     },
     today: function(){
        return $http.get('https://www.sofascore.com/football//'+today+'/json');
