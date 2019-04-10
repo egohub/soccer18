@@ -1,0 +1,37 @@
+<ion-view view-title="{{detail.event.tournament.name}}">
+  <div class="bar row bar-subheader scoreheader">
+    <span class="col col-20">
+      <img class="logo" src="https://www.sofascore.com/images/team-logo/football_{{detail.event.homeTeam.id}}.png">
+    </span>
+    <span class="col col-30 headscore">{{detail.event.homeScore.current}}</span>
+    <span class="col col-30 headscore">{{detail.event.awayScore.current}}</span>
+    <span class="col col-20">
+      <img class="logo" src="https://www.sofascore.com/images/team-logo/football_{{detail.event.awayTeam.id}}.png">
+    </span>
+  </div>
+
+  <ion-content class="padding has-subheader">
+    <div class="button-bar" style="padding-top: 14px;">
+        <a class="button">First</a>
+        <a class="button">Second</a>
+        <a class="button">Third</a>
+    </div>
+    <match-info></match-info>
+
+    <!-- <div class="row item">
+        <div class="col  col-20">
+          <img class="logo" src="https://www.sofascore.com/images/team-logo/football_{{detail.event.homeTeam.id}}.png">
+        </div>
+        <div class="col col-40">
+          {{detail.event.homeScore.current}}  {{detail.event.awayScore.current}}
+        </div>
+        <div class="col col-20">
+            <img class="logo" src="https://www.sofascore.com/images/team-logo/football_{{detail.event.awayTeam.id}}.png">
+        </div>
+    </div> -->
+
+     <pre><code>
+      {{detail  | json  }}</code>
+    </pre>
+  </ion-content>
+</ion-view>

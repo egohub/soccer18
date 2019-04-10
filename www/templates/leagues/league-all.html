@@ -1,0 +1,25 @@
+
+<ion-view view-title="{{country.Name}}" hideTabs>
+  <ion-content class="padding">
+<p>hello</p>
+{{country}} <br> {{league}}
+    <div class="card" >
+
+      <a href=""  class="row  item item-avatar" ng-repeat="c in  rank.standingsTables[0].tableRows">
+        <div class="col col-40">{{c.team.name}}</div>
+        <!-- <div class="col col-20">{{n.startTimestamp*1000 |date :'hh:mm a' }}</div>
+        <div class="col col-40">{{n.awayTeam.name}}</div> -->
+      </a>
+    </div>
+
+    <a class="item item-avatar" href="" on-tap="showInfo(s)" ng-repeat="s in  league.topscore">
+      <img src="{{s.photo}}">
+      <h2>{{s.playerName}}</h2>
+      <p>{{s.scores}} <b>{{s.team}}</b></p>
+    </a>
+    <!-- <pre>
+      {{rank  | json  }}
+    </pre> -->
+    <!-- <ion-item ng-repeat="c in  rank.standingsTables[0].tableRows">{{c.team.name}}</ion-item> -->
+  </ion-content>
+</ion-view>

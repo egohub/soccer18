@@ -1,0 +1,27 @@
+<!-- <div class="row item">
+    <div class="col  col-20">
+      <img src="https://www.sofascore.com/images/team-logo/football_{{detail.event.homeTeam.id}}.png">
+    </div>
+    <div class="col col-40">
+      {{detail.event.homeScore.current}}  {{detail.event.awayScore.current}}
+    </div>
+    <div class="col col-20">
+        <img class="avatar-right" src="https://www.sofascore.com/images/team-logo/football_{{detail.event.awayTeam.id}}.png">
+    </div>
+</div> -->
+<div class="row item">
+   <p>This is Directive</p>
+  <div class="col">
+    {{detail.event.homeTeam.name}}
+  </div>
+  <div class="col">
+      {{detail.event.awayTeam.name}}
+  </div>
+</div>
+<ion-item>{{detail.event.venue.stadium.name}}</ion-item>
+<ion-item>{{detail.event.season.info}}</ion-item>
+<ion-item>
+{{detail.matchInfo}}
+</pion-item>
+
+<!-- <ion-item>HomeWin:{{detail.h2hDuel.homewins}}</ion-item> -->

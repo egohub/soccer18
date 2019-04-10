@@ -1,0 +1,22 @@
+<!--
+  This template loads for the 'tab.friend-detail' state (app.js)
+  'friend' is a $scope variable created in the FriendsCtrl controller (controllers.js)
+  The FriendsCtrl pulls data from the Friends service (service.js)
+  The Friends service returns an array of friend data
+  <img ng-src="{{chat.face}}" style="width: 64px; height: 64px">
+
+-->
+<ion-view view-title="{{detail.event.tournament.name}}">
+  <ion-content class="padding">
+    <a class="item item-avatar" href="">
+      <img src="https://www.sofascore.com/images/team-logo/football_{{detail.event.homeTeam.id}}.png">
+      <img class="avatar-right" src="https://www.sofascore.com/images/team-logo/football_{{detail.event.awayTeam.id}}.png">
+
+    </a>
+    <p>{{detail.event.homeTeam.name}}</p>
+
+    <pre>
+      {{detail  | json  }}
+    </pre>
+  </ion-content>
+</ion-view>

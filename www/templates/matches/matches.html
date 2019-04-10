@@ -1,0 +1,69 @@
+<ion-view view-title="HOME">
+  //
+  <ion-content padding="true">
+    //
+    <p>Example of Ionic tabs. Navigate to each tab, and navigate to child views of each tab and notice how each tab has its own navigation history.</p>
+    // </ion-content>
+  <ion-tabs class="tabs-striped tabs-positive tabs-top tabs-icon-top has-tabs-top">
+
+    <ion-tab title="TODAY" icon-on="ion-ios-calendar"  icon-off="ion-ios-calendar-outline">
+      <ion-header-bar></ion-header-bar>
+      <!-- Tab 1 content -->
+      <ion-content class="padding">
+
+        <div class="card" ng-repeat="m in  matches | filter: 'notstarted'">
+          <div class="item item-divider item-assertive">
+            {{m.tournament.name}}
+          </div>
+          <a href="#/tab/matches/{{n.id}}"  class="row  item item-text-wrap" ng-repeat="n in  m.events| filter: 'notstarted'">
+            <div class="col col-40">{{n.homeTeam.name}}</div>
+            <div class="col col-20">{{n.startTimestamp*1000 |date :'hh:mm a' }}</div>
+            <div class="col col-40">{{n.awayTeam.name}}</div>
+          </a>
+        </div>
+      </ion-content>
+    </ion-tab>
+
+    <ion-tab title="Live" icon-on="ion-ios-time" icon-off="ion-ios-time-outline">
+      <ion-header-bar></ion-header-bar>
+      <!-- Tab 2 content -->
+      <ion-content class="padding">
+
+        <!-- <div class="card" ng-repeat="m in  matches | filter:'inprogress' "> -->
+        <div class="card" ng-repeat="m in  lives ">
+
+          <div class="item item-divider item-balanced">
+            {{m.tournament.name}}
+          </div>
+          <a ui-sref="tab.match({id: n.id})" class="row  item item-text-wrap" ng-repeat="n in  m.events| filter: 'inprogress' ">
+            <div class="col col-10">{{n.statusDescription }}
+</div>
+            <div class="col col-35 home">{{n.homeTeam.name}}</div>
+            <div class="col col-20">{{n.homeScore.current}} - {{n.awayScore.current}}</div>
+            <div class="col col-35 away">{{n.awayTeam.name}}</div>
+          </a>
+        </div>
+      </ion-content>
+    </ion-tab>
+
+    <ion-tab title="Tomorrow" icon="ion-arrow-graph-up-right">
+      <ion-header-bar></ion-header-bar>
+      <!-- Tab 3 content -->
+      <ion-content class="padding">
+        <!-- <pre>{{tom |  json}} </pre> -->
+
+        <div class="card" ng-repeat="m in  tom">
+          <div class="item item-divider item-assertive">
+            {{m.tournament.name}}
+          </div>
+          <a href="#/tab/matches/{{n.id}}"  class="row  item item-text-wrap" ng-repeat="n in  m.events">
+            <div class="col col-40">{{n.homeTeam.name}}</div>
+            <div class="col col-20">{{n.startTimestamp*1000 |date :'hh:mm a' }}</div>
+            <div class="col col-40">{{n.awayTeam.name}}</div>
+          </a>
+        </div>
+      </ion-content>
+    </ion-tab>
+
+  </ion-tabs>
+</ion-view>

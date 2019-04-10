@@ -1,0 +1,41 @@
+<ion-view view-title="Watch">
+  <ion-content>
+    <ion-list>
+      <ion-toggle ng-model="settings.enableFriends">
+        Enable Friends
+      </ion-toggle>
+    <pre> <code> {{liv | json}}</code></pre>
+    </ion-list>
+        
+    <div class="list card"  ng-repeat="v in live">
+
+      <div class="item item-avatar">
+        <img src="{{v.thumbnail}}">
+        <h2>{{v.title}}</h2>
+        <p>{{v }}</p>
+      </div>
+
+      <div class="" ng-bind-html="iframe(v.embed)" >
+        
+      </div>
+      <p> this iframeEle filter method</p>
+      <div class="" ng-bind-html="v.embed|iframeEle" >
+        
+      </div>
+
+      <a class="item item-icon-left assertive" href="#">
+  <i class="icon ion-music-note"></i>
+  Start listening
+</a>
+
+    </div>
+
+
+    <ion-list>
+      <ion-item ng-repeat="v in live">
+        {{v.title.rendered}}
+      </ion-item>
+    </ion-list>
+    <pre>{{live | json}}</pre>
+  </ion-content>
+</ion-view>
