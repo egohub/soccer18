@@ -8,7 +8,7 @@ var leagueJson = require('./data/categories.json');
 var sofaCountry = require('./data/sofaCountry.json');
 var request = require('request');
 var  football = require('./football');
-app.use(express.static(__dirname + '/public'));
+app.use(express.static(__dirname + '/www'));
 // app.use(function (req, res, next) {
 //
 //     // Website you wish to allow to connect
