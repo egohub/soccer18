@@ -95,22 +95,32 @@ angular.module('starter.controllers', [])
   // }
 // })
 
-.controller('AccountCtrl', function($scope, $sce, videoApi) {
-  $scope.settings = {
-    enableFriends: true
-  };
-  videoApi.all().then((data) => {
-    console.log(data);
-    $scope.live = data.data;
-    $scope.iframe = function (url){
+.controller('AccountCtrl', function($scope, $sce, $ionicLoading, videoApi) {
+   $scope.iframe = function (url){
         return $sce.trustAsHtml(url);
     }
+    
+  $scope.toggleVideo = function (item) {
+    if(item.showVideo) {
+      item.showVideo = !item.showVideo;
+    } else {
+      item.showVideo = true;
+    }
+  };
+
+  $scope.toggleAlt = function (item) {
+    if(item.showAlt) {
+      item.showAlt = !item.showAlt;
+    } else {
+      item.showAlt = true;
+    }
+  };
+
+  videoApi.all().then((data) => {
+    console.log(data);
+    $scope.bat = data.data;
+   
   })
-})
-.filter('iframeEle', function ($sce){
-     return function(value){
-        return $sce.trustAsHtml(value)
-     }
    
 });
 
