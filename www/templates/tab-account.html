@@ -1,41 +1,38 @@
-<ion-view view-title="Watch">
-  <ion-content>
-    <ion-list>
-      <ion-toggle ng-model="settings.enableFriends">
-        Enable Friends
-      </ion-toggle>
-    <pre> <code> {{liv | json}}</code></pre>
-    </ion-list>
-        
-    <div class="list card"  ng-repeat="v in live">
-
-      <div class="item item-avatar">
-        <img src="{{v.thumbnail}}">
-        <h2>{{v.title}}</h2>
-        <p>{{v }}</p>
+<ion-view view-title="Highlights">
+  <ion-content class="padding">
+    <!--<button class="button button-block button-outline button-positive" ng-click="getGoals()">-->
+    <!--  Get latest goals-->
+    <!--</button>-->
+    <!--<div class="list list-inset">-->
+    <!--  <label class="item item-input">-->
+    <!--    <i class="icon ion-search placeholder-icon"></i>-->
+    <!--    <input type="text" placeholder="Search" ng-model="search.data.title">-->
+    <!--  </label>-->
+    <!--</div>-->
+    <div class="list card" ng-repeat="goal in bat">
+      <div class="item">
+        <h2>{{goal.title}}</h2>
+        <p>{{goal.date | date:'dd-MM-yyyy'}}</p>
       </div>
+      <!--<div class="item item-image video-container">-->
+      <!--  <div ng-repeat="v in goal.videos">-->
+      <!--    <button class="button button-block button-outline button-positive"-->
+      <!--        ng-click="toggleAlt(goal)">-->
+      <!--      {{v.title}}-->
+      <!--    </button>-->
+      <!--    <div ng-if="goal.showAlt" ng-bind-html="iframe(v.embed)" ></div>-->
+      <!--  </div>-->
+      <!--</div>-->
+      <div class="item item-image video-container">
+        <div>
+          <div ng-if="goal.showAlt" ng-bind-html="iframe(goal.videos[0].embed)" ></div>
 
-      <div class="" ng-bind-html="iframe(v.embed)" >
-        
+          <button class="button button-block button-outline button-positive"
+              ng-click="toggleAlt(goal)">
+            {{goal.videos[0].title}}
+          </button>
+        </div>
       </div>
-      <p> this iframeEle filter method</p>
-      <div class="" ng-bind-html="v.embed|iframeEle" >
-        
-      </div>
-
-      <a class="item item-icon-left assertive" href="#">
-  <i class="icon ion-music-note"></i>
-  Start listening
-</a>
-
     </div>
-
-
-    <ion-list>
-      <ion-item ng-repeat="v in live">
-        {{v.title.rendered}}
-      </ion-item>
-    </ion-list>
-    <pre>{{live | json}}</pre>
   </ion-content>
 </ion-view>
